@@ -5,7 +5,7 @@ about:
   links:
     - icon: github
       text: Github
-      href: https://github.com/myelinviolin/DataProjects/tree/main/Nine%20Springs%20Blog
+      href: https://github.com/myelinviolin/NineSpringsBlog
 ---
 
-Any and all suggestions are welcome. Feel free to email me at court.l.krueger@gmail.com for any additions or recommended changes.
+Any and all suggestions are welcome. Feel free to email me at court.l.krueger\@gmail.com for any additions or recommended changes.
