@@ -1,0 +1,50 @@
+---
+title: "C&C Hilltop Farm"
+categories: [supplements]
+description: natural full spectrum CBD oil
+image: "HilltopFarmLogo.png"
+about:
+  template: marquee
+  links:
+    - icon: globe
+      href: www.cchilltopfarm.com
+    - icon: facebook
+      href: https://www.facebook.com/ccHilltopfarm
+---
+
+![](Hemp%20Plants.jpg)
+
+C&C Hilltop Farm grows the finest locally grown hemp on our family-owned farm in Wisconsin. As a family, we plant, care for, and harvest every plant by hand to produce premium CBD products direct from our farm to you. 
+
+We strive to provide affordable and high-quality Full Spectrum CBD for your health and wellness. 
+
+New customers get \$9 off with promo code: **NEWCBD** at cchilltopfarm.com. We offer shipping, free local delivery, and pickup in Madison.
+
+### CBD Oil
+
+|                                        |                                        |
+|--------------------|----------------|
+| ![](IMG_1035_cropped.jpg){width="137"} | ![](IMG_1036_cropped.jpg){width="111"} |
+
+Our pure cannabinoid-rich full spectrum CBD Oil is a high potency of 1800 mg. of CBD as each 1 ml dropper contains 60 mg. of CBD. It is 100% natural and contains no artificial flavorings or additives.
+
+### CBD Pain Relief Balm
+
+|                                        |                                        |
+|---------------------------|-----------------------------------|
+| ![](IMG_2157_cropped.jpg){width="227"} | ![](IMG_2179_cropped.jpg){width="305"} |
+
+Our CBD Pain Relief Balm is a topical and contains 2000 mg. of our terpene-rich full spectrum CBD extract paired with essential oils of peppermint, lavender, lemongrass, and eucalyptus. Made with all-natural ingredients this effective and therapeutic balm helps soothe discomfort and moisturize and hydrate skin.
+
+When you buy from us, you get high quality ingredients you can trust and are supporting a locally owned small business.
+
+### CBD Distillate
+
+We have Full-spectrum CBD distillate concentrate for making your own homemade bath and body products, food preparation, CBD edibles, and more.
+
+```{=html}
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1031.1276895883027!2d-89.37217263173416!3d43.031551663780334!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88065291837c9c25%3A0xe1c8c1ff1db8e10!2s2856%20Warner%20Ln%2C%20Madison%2C%20WI%2053713!5e0!3m2!1sen!2sus!4v1667756555013!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+```
+Phone Number: (608) 669-0020
+
+E-mail: sales\@cchilltopfarm.com
