@@ -1,10 +1,10 @@
 ---
 title: "C&C Hilltop Farm"
 categories: [supplements]
-description: natural full spectrum CBD oil
-image: "HilltopFarmLogo.png"
+description: natural full spectrum CBD
+image: "Hilltop Farm Logo - light.png"
 about:
-  template: marquee
+  template: solana
   links:
     - icon: globe
       href: www.cchilltopfarm.com
@@ -22,17 +22,13 @@ New customers get \$9 off with promo code: **NEWCBD** at cchilltopfarm.com. We o
 
 ### CBD Oil
 
-|                                        |                                        |
-|--------------------|----------------|
-| ![](IMG_1035_cropped.jpg){width="137"} | ![](IMG_1036_cropped.jpg){width="111"} |
+![](IMG_2268.jpg)
 
 Our pure cannabinoid-rich full spectrum CBD Oil is a high potency of 1800 mg. of CBD as each 1 ml dropper contains 60 mg. of CBD. It is 100% natural and contains no artificial flavorings or additives.
 
 ### CBD Pain Relief Balm
 
-|                                        |                                        |
-|---------------------------|-----------------------------------|
-| ![](IMG_2157_cropped.jpg){width="227"} | ![](IMG_2179_cropped.jpg){width="305"} |
+![](IMG_2263%20(1).jpg)
 
 Our CBD Pain Relief Balm is a topical and contains 2000 mg. of our terpene-rich full spectrum CBD extract paired with essential oils of peppermint, lavender, lemongrass, and eucalyptus. Made with all-natural ingredients this effective and therapeutic balm helps soothe discomfort and moisturize and hydrate skin.
 
