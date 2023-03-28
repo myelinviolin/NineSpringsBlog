@@ -1,7 +1,7 @@
 {
   "hash": "7b52872e682752ed7fb181ba2a368d2e",
   "result": {
-    "markdown": "---\ntitle: \"About\"\nabout:\n  template: trestles\n  links:\n    - icon: github\n      text: Github\n      href: https://github.com/myelinviolin/NineSpringsBlog\n---\n\n\nThis website is fully open source and direct contributions are fully welcomed.\n\nAny and all suggestions are welcome. Feel free to email me at court.l.krueger\\@gmail.com for any additions or recommended changes.\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\nLast published: 31Jan2023\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: \"About\"\nabout:\n  template: trestles\n  links:\n    - icon: github\n      text: Github\n      href: https://github.com/myelinviolin/NineSpringsBlog\n---\n\n\nThis website is fully open source and direct contributions are fully welcomed.\n\nAny and all suggestions are welcome. Feel free to email me at court.l.krueger\\@gmail.com for any additions or recommended changes.\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\nLast published: 27Mar2023\n```\n:::\n:::\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

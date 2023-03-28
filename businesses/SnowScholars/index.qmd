@@ -1,0 +1,21 @@
+---
+title: "Snow Scholars"
+categories: [snow removal, lawn care]
+description: Affordable snow removal by local undergraduates
+image: "image.jpg"
+about:
+  template: trestles
+  links:
+    - icon: globe
+      href: https://www.snowscholars.com/
+    - icon: instagram
+      href: https://www.instagram.com/snowscholarsuw
+---
+
+![](teamphoto.jpg)
+
+Looking for reliable and affordable snow removal services in Madison? Look no further than Snow Scholars --- a team of dedicated college students who are committed to providing exceptional customer service while removing snow from your property. Our services come complete with before and after photos, as well as a postcard to let you know when the job is done. We also offer free salting upon request to ensure your safety during icy weather conditions. Choose us for all your snow removal needs and hire a local college student.
+
+Contact: info\@snowscholars.com
+
+Phone: (608) 509-4555
