@@ -1,0 +1,18 @@
+---
+title: "Pesticide Applications"
+author: "Courtney Konieczko"
+title-block-banner: true
+---
+
+```{r, echo=FALSE}
+library("googlesheets4")
+library("googledrive")
+
+my_oauth_token <- # some process that results in the token you want to use
+googledrive::drive_auth(token = my_oauth_token, email = TRUE)
+
+applications <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/1CoL_uxqwMUUbjlxyeUUcz6Na_zY1FhDiAUkTxzny3RA/edit#gid=0", sheet = 1)
+product_info <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/1CoL_uxqwMUUbjlxyeUUcz6Na_zY1FhDiAUkTxzny3RA/edit#gid=0", sheet = 2)
+
+
+```

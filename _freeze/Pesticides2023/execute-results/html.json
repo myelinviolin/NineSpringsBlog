@@ -1,0 +1,16 @@
+{
+  "hash": "4ad784be5c0279bd8ef46e6bf7550c5f",
+  "result": {
+    "markdown": "---\ntitle: \"Pesticide Applications\"\nauthor: \"Courtney Konieczko\"\ntitle-block-banner: true\n---\n\n::: {.cell}\n::: {.cell-output .cell-output-stderr}\n```\n\nAttaching package: 'googledrive'\n```\n:::\n\n::: {.cell-output .cell-output-stderr}\n```\nThe following objects are masked from 'package:googlesheets4':\n\n    request_generate, request_make\n```\n:::\n\n::: {.cell-output .cell-output-stderr}\n```\n! Using an auto-discovered, cached token.\n```\n:::\n\n::: {.cell-output .cell-output-stderr}\n```\n  To suppress this message, modify your code or options to clearly consent to\n  the use of a cached token.\n```\n:::\n\n::: {.cell-output .cell-output-stderr}\n```\n  See gargle's \"Non-interactive auth\" vignette for more details:\n```\n:::\n\n::: {.cell-output .cell-output-stderr}\n```\n  <https://gargle.r-lib.org/articles/non-interactive-auth.html>\n```\n:::\n\n::: {.cell-output .cell-output-stderr}\n```\nℹ The googledrive package is using a cached token for\n  'court.l.krueger@gmail.com'.\n```\n:::\n\n::: {.cell-output .cell-output-stderr}\n```\n! Using an auto-discovered, cached token.\n```\n:::\n\n::: {.cell-output .cell-output-stderr}\n```\n  To suppress this message, modify your code or options to clearly consent to\n  the use of a cached token.\n```\n:::\n\n::: {.cell-output .cell-output-stderr}\n```\n  See gargle's \"Non-interactive auth\" vignette for more details:\n```\n:::\n\n::: {.cell-output .cell-output-stderr}\n```\n  <https://gargle.r-lib.org/articles/non-interactive-auth.html>\n```\n:::\n\n::: {.cell-output .cell-output-stderr}\n```\nℹ The googlesheets4 package is using a cached token for\n  'court.l.krueger@gmail.com'.\n```\n:::\n\n::: {.cell-output .cell-output-stderr}\n```\n✔ Reading from \"Pesticide applications 2023\".\n```\n:::\n\n::: {.cell-output .cell-output-stderr}\n```\n✔ Range ''Sheet1''.\n```\n:::\n\n::: {.cell-output .cell-output-stderr}\n```\nNew names:\n✔ Reading from \"Pesticide applications 2023\".\n✔ Range ''Sheet2''.\n• `` -> `...4`\n```\n:::\n:::\n",
+    "supporting": [
+      "Pesticides2023_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -13,6 +13,7 @@ Here is what that area looks like plotted on a flat map.
 ```{r}
 suppressMessages(library(magrittr))
 library(ggplot2)
+library(sf)
 nskml <- sf::read_sf("NineSpringsArea.kml") %>% dplyr::select(-Description)
 nsc <- sf::read_sf("NineSpringsCreek.kml") %>% dplyr::select(-Description)
 bbt <- sf::read_sf("BaxterBikeTrail.kml") %>% dplyr::select(-Description)
@@ -50,13 +51,13 @@ https://www.inaturalist.org/places/nine-springs-natural-area https://www.inatura
     </div>
   <script type="text/javascript" charset="utf-8" src="https://www.inaturalist.org/observations.widget?layout=small&limit=18&order=desc&order_by=created_at&place_id=184814"></script>
   <table class="inat-footer">
-  <tr class="inat-user">
-    <td class="inat-value" colspan="2">
-      <strong>
-          <a href="https://www.inaturalist.org/places/nine-springs-natural-area">View more observations near Nine Springs Natural Area on <nobr>iNaturalist »</nobr></a>
-      </strong>
-    </td>
-  </tr>
+<tr class="inat-user">
+  <td class="inat-value" colspan="2">
+    <strong>
+        <a href="https://www.inaturalist.org/places/nine-springs-natural-area">View more observations near Nine Springs Natural Area on <nobr>iNaturalist »</nobr></a>
+    </strong>
+  </td>
+</tr>
 </table>
 </div>
 ```

@@ -13,7 +13,6 @@ website:
       - localbusinesses.qmd
       - resources.qmd
       - events.qmd
-      - iNat.qmd
 
     right:
       - about.qmd

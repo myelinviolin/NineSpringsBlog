@@ -14,5 +14,7 @@ Any and all suggestions are welcome. Feel free to email me at court.l.krueger\@g
 
 ```{r echo = FALSE}
 suppressWarnings(library(magrittr))
+suppressWarnings(suppressPackageStartupMessages(library(lubridate)))
+
 paste0("Last published: ",lubridate::today() %>% format("%d%b%Y")) %>% as.character() %>% cat()
 ```

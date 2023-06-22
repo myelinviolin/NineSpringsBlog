@@ -1,0 +1,87 @@
+---
+title: "Box Fan Filter Build"
+categories: [environment]
+author: "Kevin Konieczko"
+image: "logo.jpg"
+description: cheaply filter out air pollutants in your home
+---
+
+You've likely seen pictures of the eastern seaboard sometime in the last few weeks. The buildings, if they are even visible, stand ominously in the orange haze. Videos of the iconic skyline of New York City call to mind apocalyptic imagery akin to a new *Mad Max* or *Terminator* movie.
+
+![New York Skyline, 08Jun2023](Skyline.jpg)
+
+This year's wildfire season in Canada is already breaking all records before we have even hit July. We have family on the East Coast, and the descriptions of what living with the wildfire ash were concerning enough that I started to look into doing something to be prepared in the event that the next round of wildfires drift closer to our part of the country.
+
+I say that this is preparation for the next time, but realistically even now between pollen and our own, lesser fallout from the wildfire smoke there are any number of things that are spiking our AQI (Air Quality Index) values that are concerning. There are a whole host of well-known [health effects](https://www.epa.gov/wildfire-smoke-course/health-effects-attributed-wildfire-smoke) from chronic exposure to wildfire smoke such as difficulty breathing, eye irritation, and increased risk of premature death due to cardiovascular issues.
+
+In trying to find something I can do to help my family and my neighbors, I rediscovered the Corsi-Rosenthal Box filter. Some of you might be familiar with these devices from early in the COVID-19 pandemic, but for those who aren't, the Corsi-Rosenthal Box (CR Box) is a simple air filter that can make a marked improvement on indoor air quality. Another upside to the CR Box is that they can be made from easy-to-source and cheap materials. At the most basic level, the CR Box is a box fan that has been attached to four furnace filters. The design is flexible, but I'll post links to where you can acquire some of the materials below.
+
+# What You Need:
+
+-   1 -- 20" Box Fan
+
+-   4 -- 20x20x1 furnace filters
+
+-   Duct Tape
+
+-   Cardboard (can reuse from Box Fan packaging)
+
+## Box Fan
+
+Any 20" box fan should be acceptable for use in the CR Box. See below for some examples of fans:
+
+::: {#fig-fans layout-ncol="3"}
+[![Pelonis](pelonis.jpg)](https://www.amazon.com/PELONIS-PFB50A2BWW-Full-Force-Circulation-Conditioner/dp/B095CB1TC5/ref=sr_1_5?crid=WV8ZDB6K3MJ0&keywords=20%22+box+fan&qid=1687137702&sprefix=20+box+fa%2Caps%2C144&sr=8-5)
+
+[![Lasko](lasko.jpg)](https://www.amazon.com/Lasko-20%E2%80%B3-Weather-Shield-Performance-Box/dp/B000BOCD1Y/ref=sr_1_2?crid=WV8ZDB6K3MJ0&keywords=20%22+box+fan&qid=1687137720&refinements=p_36%3A1253523011&rnid=386465011&s=home-garden&sprefix=20+box+fa%2Caps%2C144&sr=1-2)
+
+[![Hampton Bay](hamptonbay.jpg)](https://www.homedepot.com/p/Hampton-Bay-20-in-3-Speed-Indoor-Box-Fan-in-White-FB50-16H/318944502)
+
+Box Fans
+:::
+
+## Filters
+
+Similar to the fan, it seems that most filters are perfectly acceptable for use in the CR Box. Filters are scored by the MERV rating with higher MERV scores filtering additional material out of the air. For removing pollen and dust from the air you can use anything with a rating of 5 or higher. When it comes to removing wildfire smoke, ash, and viral material from the air you need to use a filter with a score of 13 or higher. Depending on availability and cost, however, even lower scored filters will be helpful.
+
+I have seen the recommendation from multiple sources to avoid filters from Filterbuy -- although these are some of the cheapest filters available, they apparently are less efficient at filtering out particulates.
+
+Below are some examples of MERV13 filters:
+
+::: {#fig-airfilters layout-ncol="3"}
+[![BNX TruFilter](MERV13.jpg)](https://www.amazon.com/BNX-20x20x1-MERV-Filter-Pack/dp/B09XC3RQ3J/ref=sr_1_1_sspa?hvadid=177780094487&hvdev=c&hvlocphy=9018946&hvnetw=g&hvqmt=e&hvrand=2362990814095317119&hvtargid=kwd-130359426290&hydadcr=7363_9590121&keywords=20x20x1+air+filter+merv+13&qid=1687138423&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
+
+[![Aerostar](Aerostar.jpg)](https://www.amazon.com/Aerostar-Pleated-MERV-13-20x20x1/dp/B01CR9K33K/ref=sr_1_5?hvadid=177780094487&hvdev=c&hvlocphy=9018946&hvnetw=g&hvqmt=e&hvrand=2362990814095317119&hvtargid=kwd-130359426290&hydadcr=7363_9590121&keywords=20x20x1+air+filter+merv+13&qid=1687138423&sr=8-5)
+
+[![HDX](HDX.jpg)](https://www.homedepot.com/p/HDX-20-in-x-20-in-x-1-in-Premium-Pleated-Air-Filter-FPR-10-HDX1P10-012020/315964939#overlay)
+
+Air Filters
+:::
+
+# [Construction Steps]{.underline}
+
+1.  Tape together the filters into the sides of a cube (missing top and bottom) using duct tape. Avoid taping over the mesh of the filters.
+
+    **NOTE:** When taping the filters together be sure to arrange each filter so that the direction of the filtering is pointed towards the inside of the cube.
+
+2.  Cut a piece of cardboard to fit the bottom of the cube and tape it onto the bottom of the cube using duct tape.
+
+3.  Tape the box fan to the top of the cube using duct tape.
+
+    **NOTE:** Ensure that the direction of air flow from the fan comes out of the top of the cube (as opposed to pushing air into the center of the cube). Although the fan could be positioned on the side of the cube, many report that having the fan point up into the air is less obtrusive.
+
+4.  (Optional Step) For better performance, cut a 'fan shroud' from cardboard. To do this, trim a circle out of a piece of cardboard that covers the box fan so that the circle created by the fan blades is open. Leaving the corners covered in this way increased the efficiency of the CR Box.
+
+------------------------------------------------------------------------
+
+![](build.jpg){fig-align="center"}
+
+## Additional Resources
+
+[Clean Air Crew: Box Fan Filters](https://cleanaircrew.org/box-fan-filters/)
+
+[Clean Air Crew: How to clean the air from harmful wildfire smoke](https://cleanaircrew.org/how-to-clean-the-air-from-harmful-wildfire-smoke/)
+
+[Wikipedia: Corsi Rosenthal Box](https://en.wikipedia.org/wiki/Corsi%E2%80%93Rosenthal_Box)
+
+<https://encycla.com/Corsi-Rosenthal_Cube>
