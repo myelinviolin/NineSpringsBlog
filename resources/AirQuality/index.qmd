@@ -1,0 +1,35 @@
+---
+title: "Local Air Quality"
+categories: [environment]
+image: "logo.png"
+description: live updates
+---
+
+```{r echo = FALSE}
+suppressPackageStartupMessages(library(gt))
+suppressPackageStartupMessages(library(magrittr))
+suppressPackageStartupMessages(library(dplyr))
+
+aqi <- read.table(
+  file = "https://www.airnowapi.org/aq/observation/zipCode/current/?format=text/csv&zipCode=53713&distance=25&API_KEY=223DC9F5-E09A-4A38-A9A4-B6737BA465D2", 
+  sep = ",", header = TRUE) %>% dplyr::select(ParameterName, AQI, CategoryName)
+
+colnames(aqi) %<>% dplyr::recode("CategoryName" = "Category", "ParameterName" = "Parameter")
+
+palette <- scales::col_bin(palette = c("#00E400", "#FFFF00", "#FF7E00", "#FF0000", "#8F3F97", "#7E0023"), 
+                   bins = c(0, 50, 100, 150, 200, 300, 500))
+
+gt(aqi) %>% 
+  tab_header("Current Air Quality in South Madison, WI") %>% 
+  data_color(columns = "AQI", fn = palette, target_columns = everything())
+```
+
+[![](AQI_Table.png)](https://docs.airnowapi.org/docs/DailyDataFactSheet.pdf)
+
+## Additional Resources
+
+[AirNow.gov](https://gispub.epa.gov/airnow/?contours=none&monitors=ozonepm&xmin=-9957200.756211635&xmax=-9954907.645363271&ymin=5322450.583459881&ymax=5323409.629299066&showlegend=yes)
+
+[Air Now Mobile App](https://www.airnow.gov/airnow-mobile-app/)
+
+[Wisconsin Air Quality Monitoring Data](https://airquality.wi.gov/home/map)
