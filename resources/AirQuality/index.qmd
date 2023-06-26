@@ -3,6 +3,14 @@ title: "Local Air Quality"
 categories: [environment]
 image: "logo.png"
 description: live updates
+format: 
+  html
+embed-resources: true
+editor: source
+execute: 
+  echo: false
+  warning: false
+  message: false
 ---
 
 ```{r echo = FALSE}
@@ -11,16 +19,22 @@ suppressPackageStartupMessages(library(magrittr))
 suppressPackageStartupMessages(library(dplyr))
 
 aqi <- read.table(
-  file = "https://www.airnowapi.org/aq/observation/zipCode/current/?format=text/csv&zipCode=53713&distance=25&API_KEY=223DC9F5-E09A-4A38-A9A4-B6737BA465D2", 
-  sep = ",", header = TRUE) %>% dplyr::select(ParameterName, AQI, CategoryName)
+  file = "https://www.airnowapi.org/aq/observation/zipCode/current/?format=text/csv&zipCode=53713&distance=25&API_KEY=223DC9F5-E09A-4A38-A9A4-B6737BA465D2",
+  sep = ",", header = TRUE) 
+date <- lubridate::as_date(aqi$DateObserved[1]) %>% lubridate::ymd() %>% format("%d %b %Y")
+time <- aqi$HourObserved[1] %>% as.character() %>% paste0(":00")
+date_time <- paste(date, time)
+
+aqi %<>% dplyr::select(ParameterName, AQI, CategoryName)
 
 colnames(aqi) %<>% dplyr::recode("CategoryName" = "Category", "ParameterName" = "Parameter")
 
-palette <- scales::col_bin(palette = c("#00E400", "#FFFF00", "#FF7E00", "#FF0000", "#8F3F97", "#7E0023"), 
+palette <- scales::col_bin(palette = c("#00E400", "#FFFF00", "#FF7E00", "#FF0000", "#8F3F97", "#7E0023"),
                    bins = c(0, 50, 100, 150, 200, 300, 500))
 
-gt(aqi) %>% 
-  tab_header("Current Air Quality in South Madison, WI") %>% 
+gt(aqi) %>%
+  tab_header(title = "Current Air Quality in South Madison, WI", 
+             subtitle = date_time) %>%
   data_color(columns = "AQI", fn = palette, target_columns = everything())
 ```
 
