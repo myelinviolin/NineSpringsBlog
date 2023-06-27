@@ -1,0 +1,13 @@
+name: AQI_Table
+title: AQI_Table
+username:
+account: myelinviolin
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9372373
+bundleId: 7393461
+url: https://myelinviolin.shinyapps.io/AQI_Table/
+when: 1687874062.58017
+lastSyncTime: 1687874062.58018
+asMultiple: FALSE
+asStatic: FALSE
