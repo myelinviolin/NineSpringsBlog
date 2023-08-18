@@ -6,11 +6,14 @@ about:
     - icon: github
       text: Github
       href: https://github.com/myelinviolin/NineSpringsBlog
+    - icon: slack
+      text: Slack
+      href: https://ninespringsne-yyd7893.slack.com/archives/C05MMV82B71
 ---
 
 This website is fully open source and direct contributions are fully welcomed.
 
-Any and all suggestions are welcome. Feel free to email me at court.l.krueger\@gmail.com for any additions or recommended changes.
+Please visit the Slack channel for neighbor conversations and a space to directly request updates to the website.
 
 ```{r echo = FALSE}
 suppressWarnings(library(magrittr))

@@ -3,9 +3,6 @@ title: "Local Air Quality"
 categories: [environment]
 image: "logo.png"
 description: live updates
-format: 
-  html:
-    page-layout: custom
 ---
 
 ```{=html}
