@@ -5,7 +5,18 @@ title-block-banner: true
 description: local neighborhood events
 ---
 
+#### Local Neighborhood Events
+
+We try to keep these events close by, virtual, and free or very low cost to keep them accessible for the majority of people.
+
 ```{=html}
 <iframe src="https://calendar.google.com/calendar/embed?height=400&wkst=1&bgcolor=%23039BE5&ctz=America%2FChicago&showTabs=1&showPrint=0&showCalendars=0&showTz=0&showNav=1&showDate=1&mode=WEEK&src=NmU4NzZjN2FjYWJjMDI2OTAwYThiYTQ4NDA4OTcyOGM0NjUyZTNmY2QzNzk5Mzc2ZWRiZTcyZDU1M2FjNjg4OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23F6BF26" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 ```
-This calendar stays up to date with the corresponding Google Calendar regardless of the publish date of the website.
+#### Plant and Gardening Events
+
+Natural area work days, seed collections, plant sales, educational nature walks, plant swaps, and plant sales.
+
+```{=html}
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23039BE5&ctz=America%2FChicago&showDate=1&mode=WEEK&src=ZXViZzU0NGZxZXA3cGZ1a3Zjc25kaHBramNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%238E24AA" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+```
+These calendars stay up to date with the corresponding Google Calendar regardless of the publish date of the website. If you would like to be involved in added events to either of these calendars, please reach out and you can be added as an editor.
