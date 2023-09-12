@@ -1,0 +1,30 @@
+---
+title: "Delta Beer Lab"
+categories: [Restaurant]
+description: Fancy Restaurant  
+image: "logo.png"
+about:
+  template: trestles
+  image-shape: rectangle
+  image-width: 500px
+  links:
+    - icon: globe
+      href: https://www.delta.beer/
+    - icon: instagram
+      href: https://www.instagram.com/delta.beer/?hl=en
+    - icon: facebook
+      href: https://www.facebook.com/deltabeerlab
+---
+
+
+
+Delta Beer Lab (Madison, WI) serves as a community destination and brewery. 
+Beer has brought people together for hundreds of years, and Social Laboratory / Taproom is welcoming to all. 
+They strive to expand community through quality, local craft beer without barriers to gender, race, or sexual orientation.
+
+Delta is the symbol for change in mathematics and chemistry, and it serves us as a constant reminder of our commitment to excellence in social change,
+environmental advocacy, and just being damn good people… oh, and we’re pretty intentional about how we craft beer, too!
+
+Delta Beer Lab is also a member of “1% for the Planet” – which was established in 2002 as a global movement in which we are proud to participate.
+They have always committed 1% of total revenue to environmental organizations focused on water quality resources and climate change issues.   
+
