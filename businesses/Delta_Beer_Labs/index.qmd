@@ -1,7 +1,7 @@
 ---
 title: "Delta Beer Lab"
 categories: [Restaurant]
-description: Fancy Restaurant  
+description: Taproom
 image: "logo.jpeg"
 about:
   template: trestles
@@ -16,6 +16,7 @@ about:
       href: https://www.facebook.com/deltabeerlab
 ---
 
+![Crafting Beer](Taproom.jpg)
 
 
 Delta Beer Lab (Madison, WI) serves as a community destination and brewery. 
@@ -28,3 +29,4 @@ environmental advocacy, and just being damn good people… oh, and we’re prett
 Delta Beer Lab is also a member of “1% for the Planet” – which was established in 2002 as a global movement in which we are proud to participate.
 They have always committed 1% of total revenue to environmental organizations focused on water quality resources and climate change issues.   
 
+![Delta Beer Lab](Taproom2.jpg)
