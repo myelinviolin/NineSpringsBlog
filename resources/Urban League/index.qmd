@@ -3,6 +3,7 @@ title: "Urban League Of Greater Madison"
 categories: [community]
 image: "logo.png"
 description: "Our mission is to empower African Americans and communities for success in the 21st Century."
+about:
   template: trestles
   links:
     - icon: globe
@@ -11,5 +12,8 @@ description: "Our mission is to empower African Americans and communities for su
       href: https://twitter.com/ULGM
     - icon: facebook
       href: https://www.facebook.com/urbanleagueofgreatermadison
+The mission of the Urban League of Greater Madison is to ensure that African Americans and other community members are educated, employed and empowered to live well, advance professionally and contribute to the common good in the 21st Century.
+
 ---
 
+ 
