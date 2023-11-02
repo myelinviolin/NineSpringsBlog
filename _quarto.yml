@@ -13,6 +13,7 @@ website:
       - localbusinesses.qmd
       - resources.qmd
       - events.qmd
+      - NaturalAreaPlan.qmd
 
     right:
       - about.qmd

@@ -1,0 +1,83 @@
+---
+title: "Natural Areas Plan"
+about:
+  template: trestles
+format:
+  html:
+    toc: true
+authors: Courtney Konieczko, Steven Bachleda
+---
+
+# Overview
+
+This page will be updated when herbicides will be used to fully describe the products, application method, and safety measures that are being taken to protect the applicator, the general public, and the surrounding environment. Preference will be taken for targeted and non-spray applications if full manual removal of a target species is not feasible.
+
+## Baxter Park
+
+## Indian Springs Park
+
+# Oak Savanna
+
+# Invasive Species
+
+The invasive plant species listed below are slated for removal and maintenance will include reducing and maintaining the absence of these species to improve overall forest health. The large, woody species generally take priority, though second year (seeding) garlic mustard should also be targeted when applicable.
+
+## Woody Species
+
+### Buckthorn
+
+*Rhamnus cathartica*
+
+[![Leslie J. Mehrhoff, University of Connecticut, Bugwood.org](NaturalAreaImages/buckthorn_leaves.jpg)](https://www.invasive.org/browse/detail.cfm?imgnum=5456174)
+
+[![Leslie J. Mehrhoff, University of Connecticut, Bugwood.org](NaturalAreaImages/buckthorn_trunk.jpg)](https://www.invasive.org/browse/detail.cfm?imgnum=5456087)
+
+#### Treatment
+
+Loppers or Chainsaws to cut trees down to short stumps. When freshly trimmed, a painted herbicide may be used to kill the root system.
+
+### Honey Suckle
+
+#### Identification
+
+#### Treatment
+
+### Box Elder
+
+#### Identification
+
+#### Treatment
+
+## Herbaceous Species
+
+### Garlic Mustard
+
+*Alliaria petiolata*
+
+#### Identification
+
+#### Treatment
+
+# Additional Resources
+
+## Oak Savannas
+
+<https://oaksavannas.org/>
+
+## USDA Invasive Species Information Center
+
+[Buckthorn](https://www.invasivespeciesinfo.gov/terrestrial/plants/common-buckthorn)
+
+[Garlic Mustard](https://www.invasivespeciesinfo.gov/terrestrial/plants/garlic-mustard)
+
+## Questions?
+
+Post in the **#natural_areas** channel in the [Nine Springs Neighborhood Slack Group](https://ninespringsne-yyd7893.slack.com/archives/C05MMV82B71).
+
+## Volunteer?
+
+[Dane County Parks](https://www.danecountyparks.com/get-involved/volunteer)
+
+[Lussier Family Heritage Center](https://lussierheritagecenter.com/Volunteer-Program)
+
+[Friends of Capitol Springs](https://www.friendsofcapitalsprings.org/)
