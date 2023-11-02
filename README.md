@@ -5,3 +5,5 @@ This is an open source website for the South Madison, Wisconsin area, specifical
 The website is hosted on QuartoPub, and contains embedded Shiny applications that are hosted separately at shinyapps.io. There is not yet a way to make a push to the repository automatically republish the website, so it needs to be done manually in order to reflect the changes on the website.
 
 https://myelinviolin.quarto.pub/ninesprings/
+
+The slack channel is located here: https://ninespringsne-yyd7893.slack.com/archives/C05MMV82B71
