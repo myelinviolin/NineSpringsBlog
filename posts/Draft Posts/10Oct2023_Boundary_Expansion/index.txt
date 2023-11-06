@@ -1,0 +1,26 @@
+---
+title: "Boundary Expansion and Outreach"
+author: "Courtney Konieczko"
+date: "2023-11-6"
+categories: [neighborhood]
+description: Working with the City of Madison to redefine the neighborhood area
+format:
+  html:
+    toc: true
+---
+
+# Background
+
+## Indian Springs
+
+## Moorland-Rimrock
+
+## New Proposed Area
+
+# Next Steps
+
+## Outreach
+
+### Business
+
+### Residential
