@@ -1,0 +1,65 @@
+---
+title: "Outreach Plan"
+author: "Courtney Konieczko"
+date: "2023-11-28"
+categories: [neighborhood meeting]
+description: Outreach and official association update
+---
+
+![](houses.jpg){width="360"}
+
+# Neighborhood Association Update
+
+The Indian Springs and Moorland-Rimrock Neighborhood Associations were confirmed to be inactive as of the fall of 2023. As such, there is no active association recognized by the city for our neighborhoods. As part of the rules for the city for us to be official once again, we need to reach out to all of the neighbors in the area to hold a public meeting. At this meeting, we will decide on a final boundary as well as a name.
+
+## City Neighborhood Association Webpage
+
+The [City of Madison webpage](https://www.cityofmadison.com/neighborhoods/profile/55.html) no longer displays the old contact information for the Indian Springs Neighborhood. It looks like it is still in progress, as it does not include our website. It displays the proposed boundary that will be in open discussion at a public meeting.
+
+## Define the new boundaries
+
+![](cityoutline.gif){width="550"}
+
+This is the proposed boundary for the new neighborhood association developed by the City of Madison. It includes the old areas of the Indian Springs and Moorland-Rimrock neighborhoods, but also completes our little corner down here with Rimrock to the west and the beltline to the north. This is the boundary that was used to generate the mailing labels for those who will be invited to the public neighborhood meeting. The boundary is not final and will be discussed at the public meeting as there is likely history of each area that should be considered. Once decided, the final outline will be shared with the City of Madison for final approval.
+
+![](GEarth.png){width="550"}
+
+This is the boundary I originally went to the city with, but we discovered during the meeting that there were some residential lots between the top of my boundary and the highway.
+
+## Decide on Name
+
+This website and my proposed name for the neighborhood is "Nine Springs". However, the official name needs to be discussed with the entire neighborhood. Other proposals are welcome, and all options can be discussed and decided at the public meeting.
+
+## Decide on future meeting structure
+
+As per the header, we should decide on future meeting location, time, and frequency. I would love to be able to always include a virtual component as well to make it more convenient for people to join remotely. I'll have to figure out a good way to do that so the remote joiners have a good experience.
+
+## Notification of Public Meeting
+
+Mailing labels were provided by the city for all households in the proposed boundary that is posted on the neighborhood site. A flyer will be developed, printed, and distributed to all households in advance of the public meeting. The flyer will include a date, time, and location of the meeting, as well as a QR code for an RSVP link as well as a QR code for the neighborhood website. We will also invite the city contacts we have who helped us with our efforts so far.
+
+### Distribution of Flyers to Households
+
+We will be aiming to hand deliver as many of the flyers as we can. Southside Elementary will let us have a table at some December/January events so we can let people take theirs home directly. We will ask people to take some for other people they know to help spread out the effort. Bulk deliveries can be made to the apartment complexes, and we can notify the complex management of the delivery as well. If it is within two weeks of the meeting and we still have flyers, we will mail them.
+
+### Public Postings
+
+There aren't many places to post publicly, but we can put a flyer up at Finca Coffee, Southside Elementary, and at each of the apartment complexes in the area. Once we are official we can ask if we can keep a permanent flyer up at each of these locations with QR codes for the website and Slack channels so anyone new who moves to the area can access the information they need to be involved.
+
+### Location
+
+There is space at Badger Rock Community Center/Southside Elementary that will hold 200+ people and will have a projector screen available so we can display a large map. If we can have the school open at the same time we can have a place where kids can go to the gym. We will be reaching out to them to solidify a meeting time and location. We are thinking it will be sometime in late January or February.
+
+# Ongoing Communication
+
+## Slack Channel
+
+There is now a [Slack Channel](https://join.slack.com/t/ninespringsne-yyd7893/shared_invite/zt-27x59trno-ZCSR48F~jkHE9K0xtz9h4Q) for the neighborhood so we can communicate more effectively. The link should work indefinitely and anyone can join. There are a few different channels so you can focus on the discussions you want. I make announcements for meetings there as well as updates on this effort.
+
+## Email newsletters
+
+If people put their email address in the newsletter box on the blog page, they are collected in a service called MailerLite, and once in a while I can design a basic newsletter with links to blog posts on the website, new resources that were posted, etc. I haven't done one beyond an initial test, but as we get more people signed up to receive them (currently just 8), they will become much more useful since not everyone will want to do Slack. It will be another way to inform people of upcoming meetings without needing to distribute the flyers to every household again.
+
+## Public Event Calendar
+
+There is a Google Calendar for the neighborhood that is posted to the website. It updates as anyone puts events onto it. If you would like to help maintain it, please email me or send a message on the Slack channel. I like to include free, volunteer, and virtual events that are accessible to people in our area. Meetings are included here.

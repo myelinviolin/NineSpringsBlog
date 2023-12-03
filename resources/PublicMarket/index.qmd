@@ -1,0 +1,21 @@
+---
+title: "Madison Public Market"
+categories: [community]
+image: "photo.jpg"
+about:
+  template: trestles
+  links:
+    - icon: globe
+      href: https://madisonpublicmarket.org/
+description: updates on progress
+---
+
+Coming in early 2025 at the corner of [**First St. & E. Johnson St.**](https://madisonpublicmarket.org/location/), Madison\'s brick & mortar public market promises to be an inclusive, bustling marketplace showcasing much of what makes our community so special: locally grown and prepared delicious food, refreshing beverages and handcrafted artwork, jewelry, wearables and collectibles.
+
+Our vision is to create a vibrant, year-round public marketplace where new entrepreneurs and long-established Madison favorites will grow their businesses and find success. The Market [**emphasizes equity through entrepreneurship**](https://madisonpublicmarket.org/imagine-our-market/inclusiveness-and-culture/) and through the innovative [**MarketReady program**](https://madisonpublicmarket.org/merchants/market-ready-program/), the Public Market is already being embraced as a place in Madison where businesses owned and operated by people of color can get their start.
+
+MarketReady Hall will house a [**food innovation business center**](https://madisonpublicmarket.org/location/food-innovation-center/) that will support the growth of small businesses that wish to create food related products. In MarketReady Hall, entrepreneurs will be offered shared, affordable access to commercial food production equipment and infrastructure that are often beyond the reach of typical low-capital start-ups.
+
+The Madison Public Market will attract **500,000+ visitors each year, support 130+ local businesses, create 100 jobs, and generate \$16 million in local sales** annually.
+
+Whether visiting for an afternoon or stopping in to grab dinner on the way home, the Madison Public Market is sure to become a favorite destination.
