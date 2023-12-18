@@ -1,0 +1,10 @@
+---
+title: "Respiratory Dashboard"
+categories: [community]
+image: "logo.png"
+description: current state of respiratory viruses in Dane County
+---
+
+![](logo.png)
+
+[Dane County Respiratory Illness Dashboard](https://app.powerbigov.us/view?r=eyJrIjoiZWRjYWI5NzktZmFmOS00N2E2LTkyZmMtMWY1ZTJhODM1YTY0IiwidCI6IjM1MjliZGY1LThkNGItNGNiMi1hZDc2LWNlZjVjYjI0ODI2OCJ9)
