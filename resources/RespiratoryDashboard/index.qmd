@@ -5,6 +5,10 @@ image: "logo.png"
 description: current state of respiratory viruses in Dane County
 ---
 
-![](logo.png)
+[![](logo.png)](https://app.powerbigov.us/view?r=eyJrIjoiZWRjYWI5NzktZmFmOS00N2E2LTkyZmMtMWY1ZTJhODM1YTY0IiwidCI6IjM1MjliZGY1LThkNGItNGNiMi1hZDc2LWNlZjVjYjI0ODI2OCJ9)
 
-[Dane County Respiratory Illness Dashboard](https://app.powerbigov.us/view?r=eyJrIjoiZWRjYWI5NzktZmFmOS00N2E2LTkyZmMtMWY1ZTJhODM1YTY0IiwidCI6IjM1MjliZGY1LThkNGItNGNiMi1hZDc2LWNlZjVjYjI0ODI2OCJ9)
+[Click here for the mobile version](https://app.powerbigov.us/view?r=eyJrIjoiMzFkNjUwOTUtOTViYy00NjUxLWJkZmEtZjQ4MWZjMDc4NTEzIiwidCI6IjM1MjliZGY1LThkNGItNGNiMi1hZDc2LWNlZjVjYjI0ODI2OCJ9)
+
+```{=html}
+<div align = "left"><iframe title="Respiratory Report" width="900" height="600" src=https://app.powerbigov.us/view?r=eyJrIjoiZWRjYWI5NzktZmFmOS00N2E2LTkyZmMtMWY1ZTJhODM1YTY0IiwidCI6IjM1MjliZGY1LThkNGItNGNiMi1hZDc2LWNlZjVjYjI0ODI2OCJ9 frameborder="0" allowFullScreen="true"></iframe></div>
+```
