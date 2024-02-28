@@ -4,7 +4,19 @@ title-block-banner: true
 style: yeti
 ---
 
-The Nine Springs neighborhood is located on the southside of Madison, with easy access to the Downtown, Eastside, Westside, and I-90. Nine Springs is primarily a neighborhood of single family homes with condos and apartments in the area as well.
+The Official Kick-off Meeting is going to be held at Southside Elementary on April 19th at 6pm.
+
+Please RSVP using the link below so we have a general idea of what attendance will look like.
+
+```{=html}
+<div style="margin: 0 auto; text-align: center"><a href="https://signup.com/go/NxwCFJO" target="_blank"><img src="https://signup.com/imgs/icons/signup-choose-a-spot-btn.png" alt="Click to View Volunteer Opportunities on SignUp"></a></div>
+```
+
+------------------------------------------------------------------------
+
+The Nine Springs neighborhood is located on the South side of Madison, with easy access to the Downtown, East side, West side, and I-90. Nine Springs is primarily a neighborhood of single family homes with condos and apartments in the area as well.
+
+![](images/Screenshot%202024-02-28%20125800.png){fig-align="center"}
 
 Nine Springs has close proximity to the Nine Springs E-Way system, from which our neighborhood derives it's name, along with Capital Springs State Park, the Capital City State Trail, and numerous parks allows residents to enjoy both the urban and natural settings of the city.
 
