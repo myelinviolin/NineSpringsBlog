@@ -1,7 +1,7 @@
 {
   "hash": "4afd38f218bff8fc1432d7349fb93a33",
   "result": {
-    "markdown": "---\ntitle: \"About\"\nabout:\n  template: trestles\n  links:\n    - icon: github\n      text: Github\n      href: https://github.com/myelinviolin/NineSpringsBlog\n    - icon: slack\n      text: Slack\n      href: https://ninespringsne-yyd7893.slack.com/archives/C05MMV82B71\n---\n\n\nThis website is fully open source and direct contributions are fully welcomed.\n\nPlease visit the Slack channel for neighbor conversations and a space to directly request updates to the website.\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\nLast published: 14Mar2024\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: \"About\"\nabout:\n  template: trestles\n  links:\n    - icon: github\n      text: Github\n      href: https://github.com/myelinviolin/NineSpringsBlog\n    - icon: slack\n      text: Slack\n      href: https://ninespringsne-yyd7893.slack.com/archives/C05MMV82B71\n---\n\n\nThis website is fully open source and direct contributions are fully welcomed.\n\nPlease visit the Slack channel for neighbor conversations and a space to directly request updates to the website.\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\nLast published: 18Jun2024\n```\n:::\n:::\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
