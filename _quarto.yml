@@ -2,9 +2,9 @@ project:
   type: website
 
 website:
-  title: "Nine Springs Neighborhood"
-  site-url: https://myelinviolin.quarto.pub/ninesprings/
-  description: "Local neighborhood news, events, and resources for the Nine Springs Neighborhood on the south side of Madison, WI"
+  title: "Badger Rock Neighborhood"
+  site-url: https://myelinviolin.quarto.pub/badgerrock/
+  description: "Local neighborhood news, events, and resources for the Badger Rock Neighborhood on the south side of Madison, WI"
 
   navbar:
     background: primary
