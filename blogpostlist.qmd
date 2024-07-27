@@ -776,8 +776,8 @@ feed: TRUE
         <div class="ml-form-embedWrapper embedForm">
           <div class="ml-form-embedBody ml-form-embedBodyHorizontal row-form">
             <div class="ml-form-embedContent" style=" ">
-                <h4>Nine Springs Blog</h4>
-                <p>Sign up to get new blog posts straight to your email.</p>
+                <h4>Badger Rock Newsletters</h4>
+                <p>Sign up to get updates straight to your email.</p>
             </div>
             <form class="ml-block-form" action="https://assets.mailerlite.com/jsonp/187311/forms/68715942943655105/subscribe" data-code="" method="post" target="_blank">
               <div class="ml-form-formContent horozintalForm">
