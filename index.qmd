@@ -4,18 +4,6 @@ title-block-banner: true
 style: yeti
 ---
 
-# Neighborhood Picnic on Saturday, August 24th
-
-Please join us for a neighborhood picnic hosted by the Badger Rock Neighborhood Association at Baxter Park! 
-
-The picnic will start at 12pm on Saturday, August 24th (with a rain date the following Saturday, August 31st). Everyone living on the south side of Madison is welcome to attend. Please bring whatever food or drinks or games you can and sign up here if you are able to bring something. Even if you can't bring something, please still come and enjoy the event so we can all meet each other, make connections, and enjoy some good food. Please no pets.
-
-```{=html}
-<div style="margin: 0 auto; text-align: center"><a href="https://signup.com/go/wNoOTun" target="_blank"><img src="https://signup.com/imgs/icons/signup-choose-a-spot-btn.png" alt="Click to View Volunteer Opportunities on SignUp"></a></div>
-```
-
-------------------------------------------------------------------------
-
 ```{=html}
 <style type="text/css">@import url("https://assets.mlcdn.com/fonts.css?version=1664978");</style>
     <style type="text/css">
