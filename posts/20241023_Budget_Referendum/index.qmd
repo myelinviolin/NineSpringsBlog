@@ -1,0 +1,158 @@
+---
+title: "City of Madison Budget Referendum"
+date: "2024-10-23"
+categories: [local politics]
+description: "city-provided info, Paul Soglin opinion, news articles"
+format:
+  html:
+    toc: true
+---
+
+# City of Madison Budget Referendum
+
+![](images/images.png)
+
+```{=html}
+&nbsp;
+```
+## Voting Information
+
+[Isthmus General Election Voting Guide](https://isthmus.com/news/news/isthmus-2024-general-election-voter-guide/) - The Isthmus's General Election voting guide for the upcoming elections on November 5th.
+
+```{=html}
+&nbsp;
+```
+## City of Madison Resources
+
+[2025 Budget Outlook](https://www.cityofmadison.com/finance/budget/2025/outlook) - detailed financial records, public meeting presentation slides and recordings, Budget FAQ
+
+[Update on 2025 Budget Process](https://www.cityofmadison.com/news/2024-08-05/update-on-2025-budget-process) - 05Aug2024, provides a detailed description of which services are to be cut in the event of a "NO" vote.
+
+[News Conference - 2025 Executive Capital Budget to Support Growing City](https://www.cityofmadison.com/news/2024-09-10/2025-executive-capital-budget-to-support-growing-city) - 10Sep2024
+
+```{=html}
+&nbsp;
+```
+## Yes for Madison Website
+
+[Yes for Madison](https://www.yesformadison.org/)
+
+```{=html}
+&nbsp;
+```
+## News Articles
+
+[The Cap Times - Madison will need to fix \$27 million deficit in next city budget](https://captimes.com/news/government/madison-will-need-to-fix-27-million-deficit-in-next-city-budget/article_097e2a54-ca30-11ee-9927-671bf0db5b9c.html) - 13Feb2024
+
+[Isthmus - Facing years of budget woes, Madison moves to develop strategy to change state finance laws](https://isthmus.com/news/news/madison-moves-to-develop-strategy-to-change-state-finance-law/) - 17Jul2024
+
+[Isthmus - Who owes the city of Madison nearly \$13 million?](https://isthmus.com/news/news/who-owes-the-city-of-madison-nearly-13-million/)- 09Sep2024
+
+[Wisconsin Examiner - Madison's budget handcuffed by state's police, fire spending requirements](https://wisconsinexaminer.com/2024/09/17/madisons-budget-handcuffed-by-states-police-fire-spending-requirements/)- 17Sep2024
+
+[Isthmus - City of Madison workers urge passage of budget referendum](https://isthmus.com/news/news/city-of-madison-workers-urge-passage-of-budget-referendum/) - 14Oct2024
+
+[WKOW - 'Choked by the state': Madison city workers back referendum, blame lawmakers for budget shortfall](https://www.wkow.com/news/election/choked-by-the-state-madison-city-workers-back-referendum-blame-lawmakers-for-budget-shortfall/article_938b6dee-8b3f-11ef-b3b6-53257d60fba8.html) - 15Oct2024
+
+[Tone Madison - Who will really pay the cost of Madison's budget referendum?](https://tonemadison.com/articles/who-will-really-pay-the-cost-of-madisons-budget-referendum/) - 16Oct2024
+
+[Isthmus - Soglin holds news conference to rally opposition to Madison budget referendum](https://isthmus.com/news/news/soglin-holds-news-conference-to-oppose-madison-referendum/) - 16Oct2024
+
+[Isthmus - Madison's not crying wolf](https://isthmus.com/opinion/citizen-dave/madisons-not-crying-wolf-about-referendum-need/) - 16Oct2024
+
+[Wort FM - Madison's budget referendum a short-term solution, says Wisconsin Policy Forum's Jason Stein](https://www.wortfm.org/madisons-budget-referendum-a-short-term-solution-says-wisconsin-policy-forums-jason-stein/)- 17Oct2024
+
+[The Cap Times - How Madison city employee pay raises contribute to the budget deficit](https://captimes.com/news/how-madison-city-employee-pay-raises-contribute-to-the-budget-deficit/article_6391e3da-8c0b-11ef-9b9b-4727bb81de4f.html) - 17Oct2024
+
+[The Center Square - Madison's proposed tax increase won't solve budget woes](https://www.thecentersquare.com/wisconsin/article_f713db8a-8d5b-11ef-8589-3ff026e761d2.html) - 18Oct2024
+
+[Madison sub-Reddit](https://www.reddit.com/r/madisonwi/) for further discussions of the topic
+
+```{=html}
+&nbsp;
+```
+## Proposed Plan by Paul Soglin - Information on Voting "NO"
+
+Former Mayor Paul Soglin provided the following analysis on the Madison property tax referendum, presented here without edit, except for formatting for readability:
+
+The city is asking for \$22 million on top of the already scheduled \$9 million base property tax increase. There is no need for cuts if you vote "No": on the referendum. The city already acknowledges it has \$16 million in cash from the 2023 investment income surplus - and plans to use it to avoid service cuts. That leaves a \$6 million gap. The investment income surplus for this year, 2024, is already over \$7 million - more than enough to plug the gap.
+
+### City of Madison Government Relations -- Lobbying Program
+
+-   Program dismantled in 2020 budget. Full time staff position eliminated; contract lobbyist canceled. New contract adopted. Program shrunk significantly.
+
+-   Milwaukee lobbies Madison Legislators. For the 2023 budget session, an open records request indicates that City of Milwaukee lobbied Madison legislators more than City of Madison staff.
+
+### History of State Programs that assist municipalities
+
+The State adopts Shared Revenue Program 1973 based on population, poverty, and size of tax base. Population, and higher poverty rate, means more money a community receives. The larger the property tax base, the less money.
+
+-   Through 1984 the cities of Wisconsin payments remain stable.
+
+-   1984-1990. The national economy improves and Madison outdistances the rest of the state in terms of growing the tax base. Despite growing population and more families in poverty, Madison receives substantially less money in the millions of dollars annually.
+
+-   1990-2024 Continued changes to the program do little to help Madison expect a "Hold harmless" provision is added that limits how much Madison loses each year.
+
+-   2012-2024 Adding funding to the program does little to help Madison. Virtually every city in the state including Milwaukee and sympathetic "Democratic" cities will oppose a rewrite of the formula since it will take money from them.
+
+-   2025 Estimated Shared Revenue for City of Madison: \$8.3 million
+
+Payment for Municipal Services was established in 1973. The state provides annual payments to reimburse municipalities for all or a portion of property tax supported expenses incurred in providing services to state facilities, which are exempt from property taxation.
+
+-   Historically the program was close to fully funded until Scott Walker became governor (2011-2019).
+
+-   Since Madison has 45% of all state property and facilities, it receives 45% of the payments. That means for every \$10 million added to the program, Madison receives \$ 4.5 million.
+
+-   The program is underfunded by about \$30 million.
+
+-   Madison will receive \$8.1 million in 2025.
+
+Expenditure Restraint Program was created 1990 and modified in 1994 to target high-tax rate communities that restrain spending growth. The 1994 modifications were, in part, to help Madison which was losing funding under the Shared Revenue Program.
+
+-   Milwaukee, Madison, Kenosha, Racine and Waukesha are the largest recipients in that order.
+
+-   Madison will receive almost \$7 million in in 2025
+
+### Consequence if the State of Wisconsin adds \$10 million to various revenue programs
+
+-   Shared Revenue: Madison increase less than \$300,000
+
+-   Payment for Municipal Services: Madison increase \$4.5 million
+
+-   Expenditure Restraint: Madison increase \$1.2 million
+
+### Impact on property tax for renters and homeowners if referendum is adopted
+
+-   The city says: the cost will be 66 cents a day (\$241 annually) for the average homeowner with an assessed valuation of \$450,000.
+
+-   To understand the full impact there will be an increase in the levy of \$9 million before the \$22 million is added by the referendum.
+
+-   Home owners. For a home valued at \$450,000 the total increase for 2025 is \$320 a year.
+
+-   For a renter living in an apartment values at \$150,000 the total increase is \$107 a year
+
+### Choices for the 2025 City Budget
+
+The city says:
+
+-   If the referendum is adopted there will be no cuts in service
+
+-   If the referendum is not adopted, \$16 million from the 2023 investment surplus will be used to cover a portion of the gap and there will be \$6 million in service cuts.
+
+We say:
+
+-   If the referendum is not adopted, take \$16 million from the 2023 investment surplus and \$6 million from the 2024 investment surplus, already known to be \$7 million. No cuts are necessary.
+
+### Impact of growing population on city budget
+
+The benefit of a city is the efficiency in providing services to denser areas. A growing population does not necessarily mean a proportionate growth in staff.
+
+-   Fire Protection Fire staffing is determined more by response time than population growth. Madison is wonderfully covered in terms of percentage of population receiving a minimum response time since the far west side (#12) and east side (#11 and #13) stations were opened. The main driver for fire department staffing is opening a new fire station.
+
+-   Snow plowing. Staffing for snow plowing is dictated by lane miles and size of the storm, not population. Lane mile increases are minimal as much of the dense population added to the city on streets like Johnson, E., and W. Washington, are streets with no increased demand for plowing
+
+-   Garbage collection. The city says that in recent years we are adding about 800 households annually and that necessitates more staff for garbage collection. Not true. Building inspection records indicate that about 85% of the new units are in large apartment buildings that use private collection, not city services. Again, assuming staffing levels are dependent upon population growth is not correct.
+
+### Risk and Summary
+
+The mayor claims that to vote "NO" on her tax referendum is to put the city at risk. She put the city at risk starting with her 2020 budget and all of the unacceptable fiscal practices she adopted including the dismantling of the city's government relations program and the failure to lobby. Writing letters, addressing a state budget committee, and holding press conferences attacking the legislature is not lobbying. In the 2025 legislative session Madison has the opportunity to do something it has not has in 15 years. There is a sympathetic governor, a bipartisan legislature and a city commitment to do real lobbying to achieve financial relief for city residents.
