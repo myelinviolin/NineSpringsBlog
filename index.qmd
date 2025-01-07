@@ -4,6 +4,8 @@ title-block-banner: true
 style: yeti
 ---
 
+[![](images/Badger Rock Potluck Flyer.png){fig-align="center"}](https://signup.com/go/GtaFZZH)
+
 ```{=html}
 <style type="text/css">@import url("https://assets.mlcdn.com/fonts.css?version=1664978");</style>
     <style type="text/css">
