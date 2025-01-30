@@ -4,9 +4,13 @@ title-block-banner: true
 style: yeti
 ---
 
-# Next Event
+# Next Event:
 
-![](images/Your%20paragraph%20text%20(1).png){fig-align="center"}
+![](images/2_14_24 event posterEng link doesn't work.png)
+
+![](images/2_14_25 eventposter Sp QR doesn't work.png)
+
+QR Code on flyers do not work. Register here: [Registration Form](https://form.jotform.com/AWC_Admin/know-your-rights-training-and-commu)
 
 ```{=html}
 <style type="text/css">@import url("https://assets.mlcdn.com/fonts.css?version=1664978");</style>
