@@ -4,11 +4,11 @@ title-block-banner: true
 style: yeti
 ---
 
-# Next Event:
+# Upcoming Events![](images/2025 Feb BRNC Community Dinner.png)
 
-![](images/2_14_24 event posterEng link doesn't work.png)
+![](images/2_14_24%20event%20posterEng%20link%20doesn't%20work.png)
 
-![](images/2_14_25 eventposter Sp QR doesn't work.png)
+![](images/2_14_25%20eventposter%20Sp%20QR%20doesn't%20work.png)
 
 QR Code on flyers do not work. Register here: [Registration Form](https://form.jotform.com/AWC_Admin/know-your-rights-training-and-commu)
 
