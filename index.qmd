@@ -4,7 +4,7 @@ title-block-banner: true
 style: yeti
 ---
 
-# Upcoming Events![](images/2025 Feb BRNC Community Dinner.png)
+# Upcoming Events
 
 ![](images/2_14_24%20event%20posterEng%20link%20doesn't%20work.png)
 
