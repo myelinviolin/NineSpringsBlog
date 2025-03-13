@@ -6,11 +6,42 @@ style: yeti
 
 # Upcoming Events
 
-![](images/2_14_24%20event%20posterEng%20link%20doesn't%20work.png)
+------------------------------------------------------------------------
 
-![](images/2_14_25%20eventposter%20Sp%20QR%20doesn't%20work.png)
+### [Rooted Community Dinner](https://rootedwi.org/event/badger-rock-community-dinner-3/2025-03-14/)
 
-QR Code on flyers do not work. Register here: [Registration Form](https://form.jotform.com/AWC_Admin/know-your-rights-training-and-commu)
+Friday, March 14 **⋅** 5:30 pm - 7:00 pm
+
+Badger Rock Neighborhood Center
+
+517 E. Badger Rd.\
+Madison, WI 53713 United States
+
+------------------------------------------------------------------------
+
+### [Mutual Aid Supper Club](https://space.at-home.coop/index.php/apps/calendar/p/nqMBTHemLQHqXBxw/dayGridMonth/now/view/sidebar/L3JlbW90ZS5waHAvZGF2L3B1YmxpYy1jYWxlbmRhcnMvbnFNQlRIZW1MUUhxWEJ4dy80MTg4REY2My1DRjJFLTRCRjQtQjE4QS1DNEQ2M0IzMzVFQkEuaWNz/1742243400)
+
+Monday, March 17 **⋅** 3:30 -- 6:00pm
+
+Wil-Mar Neighborhood Center
+
+504 S Brearly St, Madison, WI 53703
+
+------------------------------------------------------------------------
+
+### Neighborhood Association Meeting
+
+Friday, March 28th **⋅** 6pm
+
+Delta Beer Lab
+
+167 E Badger Rd, Fitchburg, WI 53713
+
+We will have a guest from MMAN (Madison Mutual Aid Network) to figure out a good way we can support each other in our missions to connect our community.
+
+We will also choose dates for the spring/summer events such as Earth Day at Baxter Park and the neighborhood garage sale, and anything else we want to talk about while we enjoy some drinks and warm pretzels.
+
+------------------------------------------------------------------------
 
 ```{=html}
 <style type="text/css">@import url("https://assets.mlcdn.com/fonts.css?version=1664978");</style>

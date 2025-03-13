@@ -1,0 +1,57 @@
+---
+title: "Mutual Aid Network"
+categories: [community]
+image: "MadisonMANLogoNoURL.jpg"
+about:
+  template: marquee
+  links:
+    - icon: globe
+      href: https://madisonman.coop/
+description: Find and make exchanges - using timebanking, sharing, and mutual credit 
+---
+
+[**Timebanking**](https://wezer.org/gears/) is our primary way to exchange, and we encourage you to give it a try! Every hour you spend helping another member earns you one hour's worth of credit, or a 'human hour'. You can use that credit for an hour of anyone else's time. Everyone's time is valued equally and we don't put a monetary price on our time. You can also spend before you earn if you need to. We expect everyone to engage in reciprocity, while we understand that sometimes in life we have more needs and other times we have more to offer.
+
+Here is a [25-minute video overview of our version of Mutual Aid Networks](https://www.youtube.com/watch?v=SBhHfX4ylpw&feature=youtu.be) (more informal what+why), plus a [**one-hour HOME Economics 101 video**](https://peertube.communecter.org/videos/watch/9fbc352e-9b40-4799-a189-6a2282705ccb) - an overview of the cooperative economic practices we're connecting and the tech tools we're using to support those.
+
+**The Madison Mutual Aid Network (MAN)** is a new type of networked cooperative, designed to create means for everyone to discover and succeed in work they want to do, with the support of their community.
+
+Based in Madison Wisconsin, Madison MAN Cooperative members engage in mutually beneficial sharing and exchange, in service to equitable and sustainable communities, and [embodying the following practices](https://mutualaidnetwork.org/about):
+
+-   Reciprocity
+
+-   Democratic member control and economic participation
+
+-   Voluntary and open membership
+
+-   Mutual aid among mutual aid networks
+
+-   Transparent, open, and accessible processes
+
+**Projects** range from collaborative gardening and community peace practice (ongoing) to working toward a mesh wireless network (dream stage). [Learn more here, and sign up for what interests you or suggest your own!](https://madisonman.coop/projects)
+
+[**Common Funds**](https://mutualaidnetwork.org/common-fund)
+
+We're developing shared savings pools to provide investment funding for each other's projects and needs, and emergency funds for neighbors in need.
+
+**Common Shared Resources**
+
+Meeting spaces, tool and expertise libraries, exchange platforms, and a vehicle for cooperative ownership of the things we need, but don't use often or can't afford alone.
+
+Our local home base is in Madison's [Social Justice Center](http://socialjusticecenter.org/).
+
+You can access our local exchange system by [joining](https://madisonman.coop/user/register) the Madison MAN Cooperative if you haven't already, and setting up or logging into your account here, on the lower left-hand corner of this page. Exchange or share time, stuff, price-based mutual credit, even regular old bank money!
+
+**Building Community**
+
+Regular social events for new and existing members, workshops to learn about and create the economy we want, free food and childcare for members and guests, and expert project assistance. Calendar [here](https://www.mutualaidnetwork.org/calendar/)
+
+**Global Solidarity and Shared Learning**
+
+The Madison MAN Cooperative is a founding member and home base of [Humans United in Mutual Aid Networks (HUMANs)](http://mutualaidnetwork.org/), a global cooperative network designed for mutual learning and support in service to building a neighborly global economy.
+
+In turn the HUMANs are an active partner in an even larger cooperative that's creating and implementing tech and peer support tools for mutual aid. That's [our tech HOME](https://humans.at-home.coop/) and we'd be happy to share it with you.
+
+[Click here for more on each of our economic tools.](https://mutualaidnetwork.org/about)
+
+![](MANgears.png)
