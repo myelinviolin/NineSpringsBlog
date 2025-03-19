@@ -1,0 +1,39 @@
+---
+title: "Bikes for Kids"
+categories: [volunteer]
+image: "cropped-BikesForKids-LogoHoriz-tagline.jpg"
+about:
+  template: marquee
+  links:
+    - icon: globe
+      href: https://bikesforkidswi.org/
+    - icon: facebook
+      href: https://www.facebook.com/bikesforkidswi
+    - icon: instagram
+      href: https://www.instagram.com/bikesforkidswi
+description: We clean and refurbish thousands of bikes each year. These bikes are then distributed through our nonprofit partners and through public schools.
+---
+
+## **Creating equitable access to bicycles in Dane County and beyond.**
+
+We are Wisconsin\'s largest bike center and we\'re on a mission to making bikes accessible to everyone, not just those who can afford them. Bikes are more costly than ever and transportation barriers are a serious challenge in our car dominated society. Despite our name, we give bikes to all people because people need transportation to get to school, work, events, and to access services. Bicycles are vehicles in the State of Wisconsin and they\'re a low-cost, high-benefit mode of transportation that reduce the risk of heart disease, obesity and Type 2 Diabetes. They reduce stress, reduce carbon emissions, and reduce traffic congestion. 
+
+What we\'ve learned through our work is that it is critical that young kids have bikes and the sooner the better. The window closes quickly as kids ages 11+ are often too embarrassed to learn to ride and become fixated on getting their first car. If a kid doesn\'t have a bike, it\'s very unlikely that they\'ll ever be interested in owning one as an adult. So our work in transportation equity is critical that we begin with the littlest of children. Bike ownership evolves as we age; as a little kid, they\'re fun and exciting. As a 10-12 year old, they provide freedom and independence as we start to ride to school and to connect with friends in the summer. As a teen, they provide much needed transportation to school, school activities, and our first job. As an adult, they can be our commuter vehicle, our recreational vehicle, and even our therapists. 
+
+Dane County is our home and where 85% of our bike recipients and customers reside. If you live in Wisconsin and are facing a transportation crisis, [**please contact us**](mailto:ride@bikesforkidswi.org) and we\'ll do our best to provide assistance. 
+
+We are a community bike shop that provides bike sales and repair services to fund our bike giveaway program so we can provide transportation access for all people. We\'re making bicycling sustainable, equitable, and affordable as a means of everyday transportation. We believe access to bikes betters the lives of all physically, emotionally, and economically.
+
+\***\*OPENING ON SATURDAYS: We will be open for Saturday hours starting April 12th, 2025, 10am-2pm!\*\***
+
+## Make a Difference
+
+#### **Donate a Bike**
+
+All year long, people like you donate their unwanted bikes to keep them out of the landfill and pass them along to someone in need. We are a great resource for apartment buildings, schools, and businesses that have abandoned bikes left behind. To donate a bike, bring your bike to our bike shop at **354 Coyier Lane in Madison**, Monday through Friday between 10-3pm.
+
+#### **Volunteer**
+
+With the help of volunteers, we clean and refurbish thousands of bikes each year. These bikes are then distributed through our nonprofit partners and through public schools who determine who our bike recipients are. 
+
+![](BFK-2024-year-end-accomplishments-1024x706.jpg)

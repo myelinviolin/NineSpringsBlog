@@ -1,6 +1,6 @@
 ---
 title: "Mutual Aid Network"
-categories: [community]
+categories: [community, volunteer]
 image: "MadisonMANLogoNoURL.jpg"
 about:
   template: marquee
