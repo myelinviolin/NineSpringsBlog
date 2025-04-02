@@ -8,30 +8,6 @@ style: yeti
 
 ------------------------------------------------------------------------
 
-### Neighborhood Association Meeting
-
-Friday, March 28th **⋅** 6pm
-
-Delta Beer Lab
-
-167 E Badger Rd, Fitchburg, WI 53713
-
-We will have a guest from MMAN (Madison Mutual Aid Network) to figure out a good way we can support each other in our missions to connect our community.
-
-We will also choose dates for the spring/summer events such as Earth Day at Baxter Park and the neighborhood garage sale, and anything else we want to talk about while we enjoy some drinks and warm pretzels.
-
-------------------------------------------------------------------------
-
-### Seed Starting with Sarah Karlson
-
-Saturday, March 22nd **⋅** 11am-12pm
-
-Badger Rock Neighborhood Center
-
-501 E Badger Rd, Madison, WI 53713
-
-------------------------------------------------------------------------
-
 ![](images/2025-giveaway-volunteer-poster-768x995.jpg)
 
 ------------------------------------------------------------------------
@@ -41,6 +17,30 @@ Badger Rock Neighborhood Center
 On April 7th, your purchase at [Forage Kitchen-Hilldale](https://www.google.com/url?q=https://www.facebook.com/events/633300979164724/?__cft__%5B0%5D%3DAZU3vEmahkOYOYug3h9ufV5fl9_VqS9Rg1wADgn3e5CsNpf6abvEx3eyq3VUhW755JNoU6s29cA9VJRtHWqmGi_z0MOF598NVGdweBDtmIRfbpfNAkQ3OYxBAds7qQ9r2xa_L6YEfkKf_IPnaFq9wYDelys6M7fypne_lF5Rm-9kuehjqbt7jdwFTW9KJd2bRts%26__tn__%3D-UK-R&sa=D&source=calendar&usd=2&usg=AOvVaw1wMTj_lUgAUgx5wC8iKU4P) supports Bikes for Kids! Their powerbowls are excellent! 50% of their sales will support BFKWI!
 
 Remember to mention Bikes for Kids when ordering in person or using **BFK25** when ordering online. 
+
+------------------------------------------------------------------------
+
+### Mutual Aid Stuff (and seed!) Swap
+
+Monday, April 7 **⋅** 5:30 -- 7:00pm
+
+Wil-Mar Social Justice Center
+
+1202 Williamson St, Madison, WI 53703, USA
+
+What kinds of things do you want to trade? Things that can be easy to exchange are small appliances, books, and music. What do you want to give and receive?
+
+This month's swap is also a seed swap to get everyone ready for spring gardening! Courtney will bring lots of seeds and seed starting supplies to show you how it's done.
+
+[Mutual Aid Network Calendar](https://space.at-home.coop/index.php/apps/calendar/p/nqMBTHemLQHqXBxw/dayGridMonth/now/view/sidebar/L3JlbW90ZS5waHAvZGF2L3B1YmxpYy1jYWxlbmRhcnMvbnFNQlRIZW1MUUhxWEJ4dy9BNTJCQjRDNy0wRUM3LTQ2RTAtQUQ4My1GMDExN0Y1REQ0OUUuaWNz/1744065000)
+
+------------------------------------------------------------------------
+
+### Baxter Park Earth Day
+
+Saturday, April 26 **⋅** 10:00am -- 2:00pm
+
+Goal is to spread new woodchips around trees, start cleaning up invasive species on the hillside in the park. Sign Up site will be made soon.
 
 ------------------------------------------------------------------------
 
@@ -873,17 +873,19 @@ Remember to mention Bikes for Kids when ordering in person or using **BFK25** 
 
 ------------------------------------------------------------------------
 
-The Badger Rock neighborhood is located on the South side of Madison, with easy access to the Downtown, East side, West side, and I-90. Badger Rock, named after Badger Road and Rimrock Road, is primarily a neighborhood of single family homes with condos and apartments in the area as well.
+Badger Rock (formerly Indian Springs and Moorland-Rimrock) is a dynamic, community-centered neighborhood on Madison's south side. At its heart is the Badger Rock Neighborhood Center, which connects to Badger Rock Middle School and Southside Elementary --- Madison's newest public elementary school. The center also houses Rooted, a local nonprofit that promotes sustainability and a sense of connection through urban agriculture, youth education, and community programming. The neighborhood features a diverse mix of housing options from mid-century ranches, to condos and apartments.
+
+Residents enjoy the tree-lined streets and easy access to parks and bike paths, while locally owned spots like Delta Beer Lab and Finca Coffee serve as vibrant gathering places.
 
 ![](images/LabeledMap.png){fig-align="center"}
 
-Badger Rock has close proximity to the Nine Springs E-Way system, along with Capital Springs State Park, the Capital City State Trail, and numerous parks allows residents to enjoy both the urban and natural settings of the city.
+The neighborhood is also in close proximity to the Lewis Nine Springs E-Way, a natural corridor ideal for walking, biking, and enjoying wildlife. All of these factors add up to a neighborhood that truly values equity, the community, and the environment.
 
-As a neighborhood, we seek to create a sustainable, thriving home for our residents via community engagement. Together, we can maintain and improve the quality of life for all of the residents of the neighborhood.
+Together, we can maintain and improve the quality of life for all of the residents of the area.
 
 [City Department contacts](https://www.cityofmadison.com/contact)
 
-[ISNA Profile page](https://www.cityofmadison.com/neighborhoods/profile/39.html)
+[BRNA Profile page](https://www.cityofmadison.com/neighborhoods/profile/39.html)
 
 [District 14](https://www.cityofmadison.com/council/district14/mydistrict/)
 
