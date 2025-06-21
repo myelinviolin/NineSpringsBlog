@@ -9,6 +9,7 @@ website:
   navbar:
     background: primary
     left: 
+      - garagesalemap.qmd
       - blogpostlist.qmd
       - localbusinesses.qmd
       - resources.qmd
