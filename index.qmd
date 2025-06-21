@@ -8,7 +8,7 @@ style: yeti
 
 ------------------------------------------------------------------------
 
-[![](images/Untitled (1).png)](https://myelinviolin.quarto.pub/badgerrock/garagesalemap.html)
+[![](images/Untitled%20(1).png)](https://myelinviolin.quarto.pub/badgerrock/garagesalemap.html)
 
 [![](images/IG-Call-for-artist-100.jpg)](https://www.briarpatch.org/about/upcoming-events/youth-arts-festival/)
 

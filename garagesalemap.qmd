@@ -13,11 +13,11 @@ format:
 ## Households {width="40%"}
 
 | Address                 | Items for Sale                                                                                                             |
-|----------------|--------------------------------------------------------|
-| 621 Seven Nations Drive | Household items, mens and womens clothing, decor, books                                                                   |
+|------------------|------------------------------------------------------|
+| 621 Seven Nations Drive | Household items, mens and womens clothing, decor, books                                                                    |
 | 2913 Fell Road          | everything free unless marked: kids clothes 2-5, kids toys, household items, tall coffee table with stools, plants, serger |
 | 2414 Badger Lane        | Toys, puzzles, succulents                                                                                                  |
 | 355 Munn Road           | Girls clothes size 0 - 3T, baby and toddler toys, household items, kitchen table/chairs, rocking chair                     |
-| 2914 Fell Road          | Household and kitchen items, baby nursery, boys clothes and shoes kid sizes                                                |
-| 2826 Warner Street      | Lego, fragrances brand new, some toys and household items                                                                 |
-| 2930 Salem Drive        | Snow blower, tools, toys, books, kitchen and bakeware, sporting goods                                                       |
+| 2914 Fell Road          | Household and kitchen items, baby nursery, boys clothes size 5-7, kid size shoes, womens clothes                           |
+| 2826 Warner Street      | Lego, fragrances brand new, some toys and household items                                                                  |
+| 2930 Salem Drive        | Snow blower, tools, toys, books, kitchen and bakeware, sporting goods                                                      |
