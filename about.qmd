@@ -9,6 +9,9 @@ about:
     - icon: slack
       text: Slack
       href: https://ninespringsne-yyd7893.slack.com/archives/C05MMV82B71
+    - icon: facebook
+      text: Facebook
+      href: https://www.facebook.com/groups/1411030293356678/
 ---
 
 This website is fully open source and direct contributions are fully welcomed.
