@@ -4,17 +4,11 @@ title-block-banner: true
 style: yeti
 ---
 
-# Upcoming Events
+<!-- # Upcoming Events -->
 
-------------------------------------------------------------------------
+<!-- ------------------------------------------------------------------------ -->
 
-[![](images/Untitled%20(1).png)](https://myelinviolin.quarto.pub/badgerrock/garagesalemap.html)
-
-[![](images/IG-Call-for-artist-100.jpg)](https://www.briarpatch.org/about/upcoming-events/youth-arts-festival/)
-
-[![](images/Screenshot%202025-06-18%20092850.jpg)](https://www.danecountyparks.com/Event/Detail/2334)
-
-------------------------------------------------------------------------
+<!-- ------------------------------------------------------------------------ -->
 
 ```{=html}
 <style type="text/css">@import url("https://assets.mlcdn.com/fonts.css?version=1664978");</style>

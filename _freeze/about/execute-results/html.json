@@ -2,7 +2,7 @@
   "hash": "7d4f972de6e3a7e934007329710678cc",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"About\"\nabout:\n  template: trestles\n  links:\n    - icon: github\n      text: Github\n      href: https://github.com/myelinviolin/NineSpringsBlog\n    - icon: slack\n      text: Slack\n      href: https://ninespringsne-yyd7893.slack.com/archives/C05MMV82B71\n    - icon: facebook\n      text: Facebook\n      href: https://www.facebook.com/groups/1411030293356678/\n---\n\nThis website is fully open source and direct contributions are fully welcomed.\n\nPlease visit the Slack channel for neighbor conversations and a space to directly request updates to the website.\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n\n```\nLast published: 26Jun2025\n```\n\n\n:::\n:::\n\n",
+    "markdown": "---\ntitle: \"About\"\nabout:\n  template: trestles\n  links:\n    - icon: github\n      text: Github\n      href: https://github.com/myelinviolin/NineSpringsBlog\n    - icon: slack\n      text: Slack\n      href: https://ninespringsne-yyd7893.slack.com/archives/C05MMV82B71\n    - icon: facebook\n      text: Facebook\n      href: https://www.facebook.com/groups/1411030293356678/\n---\n\nThis website is fully open source and direct contributions are fully welcomed.\n\nPlease visit the Slack channel for neighbor conversations and a space to directly request updates to the website.\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n\n```\nLast published: 28Jul2025\n```\n\n\n:::\n:::\n\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
