@@ -1,0 +1,35 @@
+---
+title: "St. Vinny's Food Pantry"
+categories: [food access, volunteer]
+image: "StVinnyLogo.png"
+description: fresh produce, dry goods, personal care items
+about:
+  template: trestles
+  links:
+    - icon: globe
+      href: https://svdpmadison.org/program/food-pantry/
+    - icon: facebook
+      href: https://www.facebook.com/svdpmadison
+    - icon: instagram
+      href: https://www.instagram.com/svdpmadison/
+---
+
+# **Need help with food?**
+
+The St. Vincent de Paul Food Pantry has a large selection of fresh produce, bread, meat, dairy, dry goods and more. We also offer personal-care items, pet food and household cleaning products. Some months, rent, utilities, bus fare, medical bills or fixing the car have stretched your budget and there\'s nothing left to buy food this month. We can help.
+
+## **Eligibility:**
+
+-   You must live in Dane County
+
+-   Households may visit the food pantry once every two weeks
+
+-   One member of the household must show a valid ID during check-in
+
+## **Get Help:**
+
+-   Visit our outdoor, drive-through pantry
+
+-   Order food online (pickup or delivery) from [Pantry2Home](https://pantry2home.com/views/landing.php)
+
+![](images/StVinnyPantrySchedule.png)

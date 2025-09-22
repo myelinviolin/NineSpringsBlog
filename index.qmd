@@ -4,11 +4,43 @@ title-block-banner: true
 style: yeti
 ---
 
-<!-- # Upcoming Events -->
+# Upcoming Events
 
-[![](images/picnic flyer.jpg)](https://signup.com/go/YisKHhv)<!-- ------------------------------------------------------------------------ -->
+```{=html}
+<div class="warning" style='background-color:#E9D8FD; color: #69337A; border-left: solid #805AD5 4px; border-radius: 4px; padding:0.7em;'><span><p style='margin-left:1em;'> 
 
-<!-- ------------------------------------------------------------------------ -->
+<b>John Nolen Drive Reconstruction Project Public Info Meeting</b><br>
+
+Date: Monday, September 22<br>
+
+Time: 6:30 pm<br>
+
+Location: <a href="https://www.google.com/url?q=https://www.cityofmadison.com/engineering/projects/john-nolen-drive&sa=D&source=calendar&usd=2&usg=AOvVaw106Z8X4xWRxE102S_TILBH">Virtual Webinar</a>
+
+</p></span> </div>
+```
+
+------------------------------------------------------------------------
+
+```{=html}
+<div class="warning" style='background-color:#E9D8FD; color: #69337A; border-left: solid #805AD5 4px; border-radius: 4px; padding:0.7em;'><span><p style='margin-left:1em;'> 
+
+<b>Badger Rock Neighborhood Association Meeting</b><br>
+
+Date: Tuesday, September 23<br>
+
+Time: 5:00 pm<br>
+
+Location: Delta Beer Lab, 167 E Badger Rd, Fitchburg, WI 53713
+
+</p></span> </div>
+```
+
+------------------------------------------------------------------------
+
+[![](images/BFF2025MADISON_InstagramPost_GREEN.png)](https://www.madisonbikes.org/2025/08/bicycle-film-festival-coming-to-madison-again/)
+
+------------------------------------------------------------------------
 
 ```{=html}
 <style type="text/css">@import url("https://assets.mlcdn.com/fonts.css?version=1664978");</style>
@@ -839,7 +871,7 @@ style: yeti
 
 ------------------------------------------------------------------------
 
-Badger Rock (formerly Indian Springs and Moorland-Rimrock) is a dynamic, community-centered neighborhood on Madison's south side. At its heart is the Badger Rock Neighborhood Center, which connects to Badger Rock Middle School and Southside Elementary --- Madison's newest public elementary school. The center also houses Rooted, a local nonprofit that promotes sustainability and a sense of connection through urban agriculture, youth education, and community programming. The neighborhood features a diverse mix of housing options from mid-century ranches, to condos and apartments.
+Badger Rock (formerly Indian Springs and Moorland-Rimrock) is a dynamic, community-centered neighborhood on Madison's south side. At its heart is the Badger Rock Neighborhood Center, which connects to Badger Rock Middle School and Lori Mann Carey Elementary --- Madison's newest public elementary school. The center also houses Rooted, a local nonprofit that promotes sustainability and a sense of connection through urban agriculture, youth education, and community programming. The neighborhood features a diverse mix of housing options from mid-century ranches, to condos and apartments.
 
 Residents enjoy the tree-lined streets and easy access to parks and bike paths, while locally owned spots like Delta Beer Lab and Finca Coffee serve as vibrant gathering places.
 
