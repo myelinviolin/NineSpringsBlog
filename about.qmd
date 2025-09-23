@@ -18,6 +18,9 @@ This website is fully open source and direct contributions are fully welcomed.
 
 Please visit the Slack channel for neighbor conversations and a space to directly request updates to the website.
 
+<p>Our e-mail address is:</p><p class="text-primary">badgerrockneighborhood@gmail.com</p>
+
+
 ```{r echo = FALSE}
 suppressWarnings(library(magrittr))
 suppressWarnings(suppressPackageStartupMessages(library(lubridate)))

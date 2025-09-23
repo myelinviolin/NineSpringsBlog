@@ -1,0 +1,58 @@
+---
+title: "John Nolen Drive Reconstruction Project"
+categories: [community]
+image: photo.jpg
+about:
+  template: trestles
+  links:
+    - icon: globe
+      href: https://www.cityofmadison.com/engineering/projects/john-nolen-drive
+description: updates on progress
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+The John Nolen Drive Reconstruction project will encompass a number of
+infrastructure design improvements along the causeway between E Olin
+Avenue and S Broom Street.
+
+Phase One of the project includes the segment from E Lakeside Street to
+S Broom Street and has been selected for funding and is expected to be
+constructed in 2025-2026. Phase Two includes the segment from E Olin
+Avenue to E Lakeside Street and will be fully designed and constructed
+once funding is available.
+
+Phase One (E Lakeside St to S Broom St) will include the following
+improvements:
+
+-   Reconstruction of six bridges along the causeway, with 3 new
+    separated bridges for the bike and pedestrian facilities
+
+-   Lane configuration and cross section changes to urbanize the roadway
+    and provide traffic calming
+
+-   Expansion of the existing path to separate bike and pedestrian
+    facilities
+
+-   Shoreline reconstruction along Lake Monona Reconstruction of storm
+    sewer Traffic signals and street lighting
+
+-   Improvements to the North Shore Dr and S Broom St intersections
+
+-   Coordination with potential future improvements identified in the
+    Lake Monona Waterfront Master Plan Map
+
+A number of exciting improvements are being considered, including:
+
+-   Reconstruction of six bridges along the causeway
+
+-   Lane configuration and cross section changes
+
+-   Expansion of the existing path to separate bike path and pedestrian
+    facilities
+
+-   Shoreline reconstruction along Lake Monona
+
+-   Reconstruction of storm sewer Traffic signals and street lighting
+    Others to be determined through public involvement process

@@ -6,21 +6,6 @@ style: yeti
 
 # Upcoming Events
 
-```{=html}
-<div class="warning" style='background-color:#E9D8FD; color: #69337A; border-left: solid #805AD5 4px; border-radius: 4px; padding:0.7em;'><span><p style='margin-left:1em;'> 
-
-<b>John Nolen Drive Reconstruction Project Public Info Meeting</b><br>
-
-Date: Monday, September 22<br>
-
-Time: 6:30 pm<br>
-
-Location: <a href="https://www.google.com/url?q=https://www.cityofmadison.com/engineering/projects/john-nolen-drive&sa=D&source=calendar&usd=2&usg=AOvVaw106Z8X4xWRxE102S_TILBH">Virtual Webinar</a>
-
-</p></span> </div>
-```
-
-------------------------------------------------------------------------
 
 ```{=html}
 <div class="warning" style='background-color:#E9D8FD; color: #69337A; border-left: solid #805AD5 4px; border-radius: 4px; padding:0.7em;'><span><p style='margin-left:1em;'> 
@@ -39,6 +24,10 @@ Location: Delta Beer Lab, 167 E Badger Rd, Fitchburg, WI 53713
 ------------------------------------------------------------------------
 
 [![](images/BFF2025MADISON_InstagramPost_GREEN.png)](https://www.madisonbikes.org/2025/08/bicycle-film-festival-coming-to-madison-again/)
+
+------------------------------------------------------------------------
+
+[![](images/72a8f6_0eebc97e5dd444deacdeafcf4a1e9028~mv2.jpg)](https://www.friendsofmononalibrary.org/events-1/annual-book-sale-2025-10-11-09-00)
 
 ------------------------------------------------------------------------
 
@@ -833,7 +822,7 @@ Location: Delta Beer Lab, 167 E Badger Rd, Fitchburg, WI 53713
               <!-- Privacy policy -->
               <div class="ml-form-embedPermissions" style="">
                 <div class="ml-form-embedPermissionsContent horizontal privacy-policy">
-                  <p>Subscription to blog posts are&nbsp;managed through&nbsp;MailerLite and all emails will include an unsubscribe button.</p>
+                  <p>Subscription to blog posts are&nbsp;managed through&nbsp;MailerLite and all emails include an unsubscribe button.</p>
  
                 </div>
               </div>

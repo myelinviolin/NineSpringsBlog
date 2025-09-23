@@ -1,0 +1,27 @@
+---
+title: "River Food Pantry"
+categories: [food access, volunteer]
+image: "RiverLogo.png"
+description: fresh produce, dry goods, personal care items
+about:
+  template: trestles
+  links:
+    - icon: globe
+      href: https://www.riverfoodpantry.org/
+    - icon: facebook
+      href: https://www.facebook.com/theriverfoodpantry
+    - icon: instagram
+      href: https://www.instagram.com/riverpantry
+---
+
+### Our Mission
+
+## <span style="color: green">Food, resources and faith to build a stronger community</span>
+
+### Our Vision
+
+## <span style="color: green">A fully nourished community</span>
+
+### About Us 
+
+The River is South Central Wisconsin's busiest food pantry. Services include free groceries for pickup or delivery, to-go meals, online grocery orders, mobile meals, and after-hours food lockers. The River also recovers food and resources---that would otherwise go to waste---from local retailers. Since 2006, The River has grown to serve over 3,500 people every week in pursuit of its vision: a fully nourished community.
