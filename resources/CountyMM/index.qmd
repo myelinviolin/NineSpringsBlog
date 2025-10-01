@@ -1,0 +1,59 @@
+---
+title: "County MM Reconstruction Project"
+categories: [infrastructure]
+image: "MMMap.png"
+about:
+  template: trestles
+  links:
+    - icon: globe
+      href: https://highway-projects-countyofdane.hub.arcgis.com/pages/cth-mm
+description: updates on progress
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+Scheduled for construction in summer/fall 2026 Together, these two
+projects are 1.38 miles extending from McCoy Road to CTH MC (John Nolan
+Drive). These projects do not include any work being completed to the
+bridge over USH 12/18.
+
+The purpose of the proposed improvements to the CTH MM (Rimrock Road)
+segment is to enhance the safety, accessibility, and efficiency of the
+corridor for all users, including drivers, pedestrians, and bicyclists.
+The existing roadway is experiencing significant cracking, which leads
+to a poor ride quality for drivers. Additionally, many elements of the
+infrastructure are not in compliance with current standards, including
+curb ramps and bus pads that do not meet Americans with Disabilities Act
+(ADA) requirements and outdated beam guard and traffic signals that fail
+to conform to updated safety standards.
+
+**The proposed improvement includes:**
+
+-   Replacing the full depth of the pavement along the roadway.
+
+-   Making repairs to curb & gutter and sidewalks as needed.
+
+-   Constructing a new multi-use path on the west side of the road from
+    US 12/18 to County MC (John Nolan Drive).
+
+-   Replacing traffic signals and beam guard to meet new standards.
+
+-   Upgrading curb ramps to meet Americans with Disabilities Act (ADA)
+    standards.
+
+-   Making necessary repairs to the storm sewer system to support curb
+    ramp improvements.
+
+-   Connecting sidewalk along the east side of the roadway at the bridge
+    over the belt line.
+
+-   Improving the entrance to the Alliant Energy Center Campus.
+
+-   Traffic Control
+
+Preliminary plans are to complete this work under two phases to help
+keep the roadway open at all times to allow access for local residents,
+businesses, emergency services and commuting traffic. More details on
+the traffic control plan will be shared as the design for this project
+develops.

@@ -1,6 +1,6 @@
 ---
 title: "John Nolen Drive Reconstruction Project"
-categories: [community]
+categories: [infrastructure]
 image: photo.jpg
 about:
   template: trestles

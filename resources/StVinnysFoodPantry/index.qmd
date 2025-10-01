@@ -2,7 +2,7 @@
 title: "St. Vinny's Food Pantry"
 categories: [food access, volunteer]
 image: "StVinnyLogo.png"
-description: fresh produce, dry goods, personal care items
+description: fresh produce, transportation aid, personal care items, household supplies
 about:
   template: trestles
   links:
@@ -16,7 +16,7 @@ about:
 
 # **Need help with food?**
 
-The St. Vincent de Paul Food Pantry has a large selection of fresh produce, bread, meat, dairy, dry goods and more. We also offer personal-care items, pet food and household cleaning products. Some months, rent, utilities, bus fare, medical bills or fixing the car have stretched your budget and there\'s nothing left to buy food this month. We can help.
+The St. Vincent de Paul Food Pantry has a large selection of fresh produce, bread, meat, dairy, dry goods and more. We also offer personal-care items, pet food and household cleaning products. Some months, rent, utilities, bus fare, medical bills or fixing the car have stretched your budget and there's nothing left to buy food this month. We can help.
 
 ## **Eligibility:**
 

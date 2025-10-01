@@ -1,0 +1,35 @@
+---
+title: "Second Harvest Food Pantry"
+categories: [food access, volunteer]
+image: "SHFLogo.png"
+description: To need support is to be human. Finding it can make life easier.
+about:
+  template: trestles
+  links:
+    - icon: globe
+      href: https://www.secondharvestsw.org/
+    - icon: facebook
+      href: https://www.facebook.com/secondharvestsw
+    - icon: instagram
+      href: https://www.instagram.com/secondharvestsw/
+---
+
+### Nutritious food belongs to us all
+
+As a food bank, Second Harvest is a network leader that finds strength by participating, hope by listening, and connection by sharing with our community.
+
+### Our Approach
+
+We believe that everyone in our community should have equal access to nutritious, affordable, and culturally meaningful food. Through our core services of food acquisition & storage, food distribution, and FoodShare Outreach we provide those facing hunger in our community access to enough nutritious food to thrive.
+
+### Vision 
+
+Everyone in our community has enough nutritious food to thrive.
+
+### Mission 
+
+Second Harvest exists to end hunger in southwestern Wisconsin.
+
+### Values 
+
+Equity • Humility • Inclusion • Innovation • Integrity • Trust
