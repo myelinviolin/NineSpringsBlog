@@ -1,0 +1,29 @@
+---
+title: "Tenant Resource Center"
+categories: [housing access]
+image: "TRC.png"
+description: legal counceling and mediation services for renters
+about:
+  template: trestles
+  links:
+    - icon: globe
+      href: https://www.tenantresourcecenter.org/
+    - icon: facebook
+      href: https://www.facebook.com/165122216982
+---
+
+Tenant Resource Center defends housing as a human right and strengthens housing stability in our communities by preventing evictions and educating and empowering individuals and families.
+
+The goal of housing justice is to meet all communities' needs, not merely the needs of the privileged. It means high-quality, safe housing for all genders, races, ethnicities, disabilities, ages, and more. It means the end of housing discrimination, as we fight until every last person is housed as they need and as they choose.
+
+------------------------------------------------------------------------
+
+Our nearest office is:
+
+Madison College Goodman South 2429 Perry Street, Madison, WI 53713
+
+Walk In Hours: Saturday 10am to 2pm
+
+English: (608) 257-0006 \| AskTRC\@TenantResourceCenter.org
+
+En Español: (608) 237-8913 \| Preguntas\@TenantResourceCenter.org
