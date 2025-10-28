@@ -1,0 +1,50 @@
+---
+title: "WI Division of Energy, Housing and Community Resources"
+categories: [housing access]
+image: "hep-logo-plus.png"
+description: housing and energy assistance
+about:
+  template: trestles
+  links:
+    - icon: globe
+      href: https://energyandhousing.wi.gov/pages/home.aspx
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+The Division of Energy, Housing and Community Resources (DEHCR) offers a
+broad range of program assistance and resources to address homelessness
+and support affordable housing, public infrastructure, household energy
+needs, and economic development opportunities. The Division partners
+with local governments and service providers, non-profit agencies,
+housing authorities, and developers.
+
+The [**Energy**](https://energyandhousing.wi.gov/Pages/Energy.aspx) programs
+(Home Energy Plus / HE+) help eligible households with electric and
+heating costs, energy-efficiency improvements, and HVAC/water-heater
+repairs or replacements.
+
+The [**Housing**](https://energyandhousing.wi.gov/Pages/Housing.aspx) programs
+provide funding for homeless and special-needs services, plus rental
+assistance, home-purchase assistance, and home rehabilitation.
+
+[**Community
+Resources**](https://energyandhousing.wi.gov/Pages/CommunityResources.aspx) grants
+support eligible local governments (towns, villages, cities, counties)
+for public-infrastructure improvements, blight elimination, business
+development, and disaster-recovery assistance.
+
+### Quick Links 
+
+[Available
+Assistance](https://energyandhousing.wi.gov/Pages/CustomerResources/Assistance.aspx)
+
+[Energy Assistance](https://energyandhousing.wi.gov/Pages/Energy.aspx)
+
+[Housing Assistance](https://energyandhousing.wi.gov/Pages/housing.aspx)
+
+[Community
+Resources](https://energyandhousing.wi.gov/Pages/CommunityResources.aspx)
+
+[Wisconsin Housing Search](http://wihousingsearch.org/)

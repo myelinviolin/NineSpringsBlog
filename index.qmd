@@ -14,8 +14,6 @@ style: yeti
 
 [![](images/568498407_1155174210064022_3011944796602296099_n.jpg){fig-align="center"}](https://www.breesestevensfield.com/bodega)
 
-[![](images/568498407_1155174210064022_3011944796602296099_n.jpg)](https://www.breesestevensfield.com/bodega)
-
 ------------------------------------------------------------------------
 
 ```{=html}
