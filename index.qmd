@@ -4,18 +4,14 @@ title-block-banner: true
 style: yeti
 ---
 
+
 # Upcoming Events
 
 ------------------------------------------------------------------------
-
-[![](images/Baxter%20Park%20Work%20Day%20Nov2025.png)](https://cityofmadison.galaxydigital.com/need/detail/?need_id=1156254)
-
-------------------------------------------------------------------------
-
 [![](images/568498407_1155174210064022_3011944796602296099_n.jpg){fig-align="center"}](https://www.breesestevensfield.com/bodega)
-
 ------------------------------------------------------------------------
-
+[![](images/40th%20Holiday%20Blood%20Drive%20Social%202%20Final.jpg){fig-align="center"}](https://www.redcrossblood.org/give.html/drive-results?zipSponsor=hbdmadison)
+------------------------------------------------------------------------
 ```{=html}
 <style type="text/css">@import url("https://assets.mlcdn.com/fonts.css?version=1664978");</style>
     <style type="text/css">
@@ -842,7 +838,6 @@ style: yeti
       </script>
       <script src="https://groot.mailerlite.com/js/w/webforms.min.js?v491724307ca3b85c1c754857e93994e5" type="text/javascript"></script>
 ```
-
 ------------------------------------------------------------------------
 
 Badger Rock (formerly Indian Springs and Moorland-Rimrock) is a dynamic, community-centered neighborhood on Madison's south side. At its heart is the Badger Rock Neighborhood Center, which connects to Badger Rock Middle School and Lori Mann Carey Elementary --- Madison's newest public elementary school. The center also houses Rooted, a local nonprofit that promotes sustainability and a sense of connection through urban agriculture, youth education, and community programming. The neighborhood features a diverse mix of housing options from mid-century ranches, to condos and apartments.
