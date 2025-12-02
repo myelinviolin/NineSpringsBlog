@@ -1,0 +1,88 @@
+---
+title: "Madison Neighborhood Indicators Project" 
+page-layout: full
+---
+
+Let's map out the three block groups that make up our neighborhood.
+
+```{r echo = FALSE, warning = FALSE, message = FALSE}
+
+library(sf) 
+library(ggplot2) 
+library(dplyr)
+
+meta_2024 <- read.csv(file = "indicators/nip_bg_24/nip_metadata_24.csv") 
+shp_2024 <- sf::read_sf(dsn = "indicators/nip_bg_24/nip_bg_24.shp") 
+BR_boundary <- sf::read_sf(dsn = "indicators/Badger_Rock_Boundary.kml")
+
+lakes <- sf::read_sf(dsn = "indicators/LakesPonds/LakesPonds.shp") %>% dplyr::filter(HYDTYPE == "Lake") %>% dplyr::filter(NAME %in% c("Lake Mendota", "Lake Monona", "Lake Wingra")) %>% head(-1)
+
+# geo_id for Badger Rock is 550250015022, 550250015023, 550250015024, Madison is Mdsn2024
+
+N1 <- shp_2024 %>% dplyr::filter(geo == "550250015022")
+
+N2 <- shp_2024 %>% dplyr::filter(geo == "550250015023") 
+N2$NAME <- "Badger Rock"
+
+N3 <- shp_2024 %>% dplyr::filter(geo == "550250015024")
+
+MDSN <- shp_2024 %>% dplyr::filter(geo == "Mdsn2024")
+
+# Everything except the whole city and our neighborhood
+
+all_other_neighborhoods <- shp_2024 %>% dplyr::filter(!geo %in% c("550250015022", "550250015023", "550250015024", "Mdsn2024"))
+
+ggplot() + 
+  geom_sf(data = all_other_neighborhoods, aes(fill = tot_pop), show.legend = TRUE) + 
+  geom_sf(data = N1, color = "purple", aes(fill = tot_pop), linewidth = 1) + 
+  geom_sf(data = N2, color = "blue", aes(fill = tot_pop), linewidth = 1) +
+  geom_sf(data = N3, color = "green", aes(fill = tot_pop), linewidth = 1) +
+  geom_sf_text(data = N2, aes(label = NAME), size = 2.5, nudge_y = -0.012) +
+  geom_sf(data = lakes, color = "blue") + geom_sf_text(data = lakes, aes(label = NAME), size = 2.0) + 
+  scale_fill_distiller(palette = "BuPu", direction = 1) + 
+  theme(axis.text.x = element_blank(), 
+        axis.text.y = element_blank(), 
+        axis.ticks = element_blank(), 
+        rect = element_blank(), 
+        axis.title.y=element_blank(), 
+        axis.title.x=element_blank())
+
+```
+
+These block groups are not a perfect fit for our neighborhood boundaries.
+
+```{r echo = FALSE, warning = FALSE, message = FALSE}
+#| layout: "[1, 1]"
+
+ggplot() + 
+  geom_sf(data = N1, color = "purple", aes(fill = NULL), linewidth = 1, alpha = .25) + 
+  geom_sf(data = N2, color = "blue", aes(fill = NULL), linewidth = 1, alpha = .25) + 
+  geom_sf(data = N3, color = "green", aes(fill = NULL), linewidth = 1, alpha = .25) +
+  scale_fill_distiller(palette = "BuPu", direction = 1) + 
+  theme(axis.text.x = element_blank(), 
+        axis.text.y = element_blank(), 
+        axis.ticks = element_blank(), 
+        rect = element_blank(), 
+        axis.title.y=element_blank(), 
+        axis.title.x=element_blank())
+
+ggplot() + 
+  geom_sf(data = N1, color = "purple", aes(fill = NULL), linewidth = 1, alpha = .25) + 
+  geom_sf(data = N2, color = "blue", aes(fill = NULL), linewidth = 1, alpha = .25) + 
+  geom_sf(data = N3, color = "green", aes(fill = NULL), linewidth = 1, alpha = .25) + 
+  geom_sf(data = BR_boundary, color = "black", aes(fill = NULL), linewidth = 1, alpha = .5) +
+
+  scale_fill_distiller(palette = "BuPu", direction = 1) + 
+  theme(axis.text.x = element_blank(), 
+        axis.text.y = element_blank(), 
+        axis.ticks = element_blank(), 
+        rect = element_blank(), 
+        axis.title.y=element_blank(), 
+        axis.title.x=element_blank())
+```
+
+Data Sources:
+
+[Neighborhood Indicator Data (2024)](https://madison.apl.wisc.edu/)
+
+[Lake Boundaries](https://gis-countyofdane.opendata.arcgis.com/pages/water-resources)

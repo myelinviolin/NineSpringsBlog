@@ -1,0 +1,17 @@
+{
+  "hash": "e619553428b421cfa30b7103b029c83f",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Madison Neighborhood Indicators Project\" \npage-layout: full\n---\n\nLet's map out the three block groups that make up our neighborhood.\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](indicators_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n\n\nThese block groups are not a perfect fit for our neighborhood boundaries.\n\n\n::: {.cell layout=\"[1, 1]\"}\n::: {.cell-output-display}\n![](indicators_files/figure-html/unnamed-chunk-2-1.png){width=672}\n:::\n\n::: {.cell-output-display}\n![](indicators_files/figure-html/unnamed-chunk-2-2.png){width=672}\n:::\n:::\n\n\nData Sources:\n\n[Neighborhood Indicator Data (2024)](https://madison.apl.wisc.edu/)\n\n[Lake Boundaries](https://gis-countyofdane.opendata.arcgis.com/pages/water-resources)\n",
+    "supporting": [
+      "indicators_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

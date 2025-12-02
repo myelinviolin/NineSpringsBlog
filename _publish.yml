@@ -1,6 +1,4 @@
 - source: project
   quarto-pub:
-    - id: 92db3421-1d7a-48c8-ab38-56542fc64866
-      url: 'https://myelinviolin.quarto.pub/ninesprings'
     - id: 0417f74a-d868-4185-a7e7-6ed1ad781d2c
       url: 'https://myelinviolin.quarto.pub/badgerrock'
