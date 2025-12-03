@@ -1,8 +1,8 @@
 {
-  "hash": "e619553428b421cfa30b7103b029c83f",
+  "hash": "5ad9466bab4ab2070f0e99a345e8ca34",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"Madison Neighborhood Indicators Project\" \npage-layout: full\n---\n\nLet's map out the three block groups that make up our neighborhood.\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](indicators_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n\n\nThese block groups are not a perfect fit for our neighborhood boundaries.\n\n\n::: {.cell layout=\"[1, 1]\"}\n::: {.cell-output-display}\n![](indicators_files/figure-html/unnamed-chunk-2-1.png){width=672}\n:::\n\n::: {.cell-output-display}\n![](indicators_files/figure-html/unnamed-chunk-2-2.png){width=672}\n:::\n:::\n\n\nData Sources:\n\n[Neighborhood Indicator Data (2024)](https://madison.apl.wisc.edu/)\n\n[Lake Boundaries](https://gis-countyofdane.opendata.arcgis.com/pages/water-resources)\n",
+    "markdown": "---\ntitle: \"Neighborhood Indicators\" \n---\n\nLet's map out the census tract that makes up our neighborhood.\n\n\n::: {.cell title='Census Tracts of Madison'}\n::: {.cell-output-display}\n![](indicators_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n\n\nThis census tract is not a perfect fit for our neighborhood boundaries, but we can see that when we overlay on top of a map that the area covers all of our neighborhood boundary except the part that is in Fitchburg, and the excess area is mainly undeveloped save for the Highland Manor area.\n\n![](indicators/Boundary_Census_Overlay.png)\n\nData Sources:\n\n[Neighborhood Indicator Data (2024)](https://madison.apl.wisc.edu/)\n\n[Lake Boundaries](https://gis-countyofdane.opendata.arcgis.com/pages/water-resources)\n",
     "supporting": [
       "indicators_files"
     ],

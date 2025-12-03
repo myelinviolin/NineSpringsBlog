@@ -1,43 +1,40 @@
 ---
-title: "Madison Neighborhood Indicators Project" 
-page-layout: full
+title: "Neighborhood Indicators" 
 ---
 
-Let's map out the three block groups that make up our neighborhood.
+Let's map out the census tract that makes up our neighborhood.
 
 ```{r echo = FALSE, warning = FALSE, message = FALSE}
+#| title: "Census Tracts of Madison"
+#| #| fig-width: 12
 
 library(sf) 
 library(ggplot2) 
 library(dplyr)
 
-meta_2024 <- read.csv(file = "indicators/nip_bg_24/nip_metadata_24.csv") 
-shp_2024 <- sf::read_sf(dsn = "indicators/nip_bg_24/nip_bg_24.shp") 
+meta_2024 <- read.csv(file = "indicators/nip_tr_24/nip_metadata_24.csv") 
+shp_2024 <- sf::read_sf(dsn = "indicators/nip_tr_24/nip_tr_24.shp") 
 BR_boundary <- sf::read_sf(dsn = "indicators/Badger_Rock_Boundary.kml")
 
 lakes <- sf::read_sf(dsn = "indicators/LakesPonds/LakesPonds.shp") %>% dplyr::filter(HYDTYPE == "Lake") %>% dplyr::filter(NAME %in% c("Lake Mendota", "Lake Monona", "Lake Wingra")) %>% head(-1)
 
-# geo_id for Badger Rock is 550250015022, 550250015023, 550250015024, Madison is Mdsn2024
+# geo_id for Badger Rock is 55025001502, Madison is Mdsn2024
 
-N1 <- shp_2024 %>% dplyr::filter(geo == "550250015022")
-
-N2 <- shp_2024 %>% dplyr::filter(geo == "550250015023") 
-N2$NAME <- "Badger Rock"
-
-N3 <- shp_2024 %>% dplyr::filter(geo == "550250015024")
+N <- shp_2024 %>% dplyr::filter(geo == "55025001502") 
+N$NAME <- "Badger Rock"
 
 MDSN <- shp_2024 %>% dplyr::filter(geo == "Mdsn2024")
 
 # Everything except the whole city and our neighborhood
 
-all_other_neighborhoods <- shp_2024 %>% dplyr::filter(!geo %in% c("550250015022", "550250015023", "550250015024", "Mdsn2024"))
+all_other_neighborhoods <- shp_2024 %>% dplyr::filter(!geo %in% c("Mdsn2024", "55025001502"))
 
 ggplot() + 
+  ggtitle("Madison Total Population by Census Tracts") +
   geom_sf(data = all_other_neighborhoods, aes(fill = tot_pop), show.legend = TRUE) + 
-  geom_sf(data = N1, color = "purple", aes(fill = tot_pop), linewidth = 1) + 
-  geom_sf(data = N2, color = "blue", aes(fill = tot_pop), linewidth = 1) +
-  geom_sf(data = N3, color = "green", aes(fill = tot_pop), linewidth = 1) +
-  geom_sf_text(data = N2, aes(label = NAME), size = 2.5, nudge_y = -0.012) +
+  geom_sf(data = N, color = "purple", aes(fill = tot_pop), linewidth = 1) + 
+  # This helped figure out what geo id our census tract had
+  # geom_sf_text(data = N, aes(label = geo), size = 2.5, nudge_y = -0.012) +
   geom_sf(data = lakes, color = "blue") + geom_sf_text(data = lakes, aes(label = NAME), size = 2.0) + 
   scale_fill_distiller(palette = "BuPu", direction = 1) + 
   theme(axis.text.x = element_blank(), 
@@ -45,41 +42,14 @@ ggplot() +
         axis.ticks = element_blank(), 
         rect = element_blank(), 
         axis.title.y=element_blank(), 
-        axis.title.x=element_blank())
+        axis.title.x=element_blank(),
+        plot.background = element_rect(colour = "black", fill=NA, size=3))
 
 ```
 
-These block groups are not a perfect fit for our neighborhood boundaries.
+This census tract is not a perfect fit for our neighborhood boundaries, but we can see that when we overlay on top of a map that the area covers all of our neighborhood boundary except the part that is in Fitchburg, and the excess area is mainly undeveloped save for the Highland Manor area.
 
-```{r echo = FALSE, warning = FALSE, message = FALSE}
-#| layout: "[1, 1]"
-
-ggplot() + 
-  geom_sf(data = N1, color = "purple", aes(fill = NULL), linewidth = 1, alpha = .25) + 
-  geom_sf(data = N2, color = "blue", aes(fill = NULL), linewidth = 1, alpha = .25) + 
-  geom_sf(data = N3, color = "green", aes(fill = NULL), linewidth = 1, alpha = .25) +
-  scale_fill_distiller(palette = "BuPu", direction = 1) + 
-  theme(axis.text.x = element_blank(), 
-        axis.text.y = element_blank(), 
-        axis.ticks = element_blank(), 
-        rect = element_blank(), 
-        axis.title.y=element_blank(), 
-        axis.title.x=element_blank())
-
-ggplot() + 
-  geom_sf(data = N1, color = "purple", aes(fill = NULL), linewidth = 1, alpha = .25) + 
-  geom_sf(data = N2, color = "blue", aes(fill = NULL), linewidth = 1, alpha = .25) + 
-  geom_sf(data = N3, color = "green", aes(fill = NULL), linewidth = 1, alpha = .25) + 
-  geom_sf(data = BR_boundary, color = "black", aes(fill = NULL), linewidth = 1, alpha = .5) +
-
-  scale_fill_distiller(palette = "BuPu", direction = 1) + 
-  theme(axis.text.x = element_blank(), 
-        axis.text.y = element_blank(), 
-        axis.ticks = element_blank(), 
-        rect = element_blank(), 
-        axis.title.y=element_blank(), 
-        axis.title.x=element_blank())
-```
+![](indicators/Boundary_Census_Overlay.png)
 
 Data Sources:
 
