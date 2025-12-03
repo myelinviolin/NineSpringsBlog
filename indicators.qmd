@@ -11,6 +11,9 @@ Let's map out the census tract that makes up our neighborhood.
 library(sf) 
 library(ggplot2) 
 library(dplyr)
+library(magrittr)
+library(tidyr)
+library(gt)
 
 meta_2024 <- read.csv(file = "indicators/nip_tr_24/nip_metadata_24.csv") 
 shp_2024 <- sf::read_sf(dsn = "indicators/nip_tr_24/nip_tr_24.shp") 
@@ -24,6 +27,7 @@ N <- shp_2024 %>% dplyr::filter(geo == "55025001502")
 N$NAME <- "Badger Rock"
 
 MDSN <- shp_2024 %>% dplyr::filter(geo == "Mdsn2024")
+MDSN$NAME <- "Madison"
 
 # Everything except the whole city and our neighborhood
 
@@ -50,6 +54,56 @@ ggplot() +
 This census tract is not a perfect fit for our neighborhood boundaries, but we can see that when we overlay on top of a map that the area covers all of our neighborhood boundary except the part that is in Fitchburg, and the excess area is mainly undeveloped save for the Highland Manor area.
 
 ![](indicators/Boundary_Census_Overlay.png)
+
+```{r echo = FALSE, warning = FALSE, message = FALSE}
+
+meta <- read.csv("indicators/nip_tr_24/nip_metadata_24.csv")
+df <- read.csv(file = "indicators/nip_tr_24/nip_tr_24_data.csv", header = TRUE, sep = ",", na.strings = "NA") %>% dplyr::filter(geo_id %in% c("55025001502", "madison")) %>% select(-geo_id) %>% as.data.frame()
+
+ind <- df
+
+
+colnames(ind)[colnames(ind) == "geo_type"] <- "Area"
+
+# Put percentage signs in front of percentages
+paste_percent <- function(col) (paste(col, "%"))
+pcnt_cols <- grep(x = colnames(ind), pattern = "pc_")
+ind %<>% mutate(across(pcnt_cols, paste_percent)) %>%
+  # These columns have NA for both data points
+  select(-c("foreclsr", "yrblt_mdn"))
+
+# Rename indicators
+recode_vec <- setNames(meta$variable, meta$name)
+name_match <-  match(names(ind), meta$variable)
+ind %<>% rename(any_of(recode_vec))
+
+# Pivot Table
+ind <- data.frame(t(ind[-1])) %>% relocate(X2)
+## Fix rows that have no data
+#
+colnames(ind) <- c("City of Madison", "Badger Rock")
+
+# Make row names an actual column
+ind$Measure <- row.names(ind) 
+id <- c(rep("Census 2020", 15), rep("Housing", 12), rep("Public Safety", 7), rep("Health", 2), rep("Education", 9), rep("Economy", 4), rep("Transportation", 5))
+
+gt(data = ind, rowname_col = "Measure") %>% 
+  tab_header("2024 Neighborhood Indicators") %>% 
+  tab_row_group(label = "Census 2020", rows = id == "Census 2020") %>%   
+  tab_row_group(label = "Housing", rows = id == "Housing") %>% 
+  tab_row_group(label = "Public Safety", rows = id == "Public Safety") %>% 
+  tab_row_group(label = "Health", rows = id == "Health") %>% 
+  tab_row_group(label = "Education", rows = id == "Education") %>% 
+  tab_row_group(label = "Economy", rows = id == "Economy") %>% 
+  tab_row_group(label = "Transportation", rows = id == "Transportation") %>% 
+  row_group_order(groups = c("Census 2020", "Housing", "Public Safety", "Health", "Education","Economy","Transportation")) %>%
+  tab_style(
+    style = list(cell_fill(color = "gray75"), cell_text(size = "larger")),  
+    locations = cells_row_groups())
+
+# This isn't quite done yet - I want to remove rows with NA (-5), possibly make everything into percents relative to total population, and put little red/green arrows to display the percent difference between us and the city
+
+```
 
 Data Sources:
 
