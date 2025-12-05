@@ -16,7 +16,7 @@ library(tidyr)
 library(gt)
 
 meta_2024 <- read.csv(file = "indicators/nip_tr_24/nip_metadata_24.csv") 
-shp_2024 <- sf::read_sf(dsn = "indicators/nip_tr_24/nip_tr_24.shp") 
+shp_2024 <- sf::read_sf(dsn = "indicators/nip_tr_24/nip_tr_24.shp", stringsAsFactors = FALSE) 
 BR_boundary <- sf::read_sf(dsn = "indicators/Badger_Rock_Boundary.kml")
 
 lakes <- sf::read_sf(dsn = "indicators/LakesPonds/LakesPonds.shp") %>% dplyr::filter(HYDTYPE == "Lake") %>% dplyr::filter(NAME %in% c("Lake Mendota", "Lake Monona", "Lake Wingra")) %>% head(-1)
@@ -71,6 +71,7 @@ pcnt_cols <- grep(x = colnames(ind), pattern = "pc_")
 ind %<>% mutate(across(pcnt_cols, paste_percent)) %>%
   # These columns have NA for both data points
   select(-c("foreclsr", "yrblt_mdn"))
+
 
 # Rename indicators
 recode_vec <- setNames(meta$variable, meta$name)
