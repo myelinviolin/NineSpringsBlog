@@ -2,7 +2,7 @@
 title: "Neighborhood Indicators" 
 ---
 
-Let's map out the census tract that makes up our neighborhood.
+This is the census tract that makes up our neighborhood.
 
 ```{r echo = FALSE, warning = FALSE, message = FALSE}
 #| title: "Census Tracts of Madison"
@@ -51,26 +51,55 @@ ggplot() +
 
 ```
 
-This census tract is not a perfect fit for our neighborhood boundaries, but we can see that when we overlay on top of a map that the area covers all of our neighborhood boundary except the part that is in Fitchburg, and the excess area is mainly undeveloped save for the Highland Manor area.
+This census tract is not a perfect fit for our neighborhood boundaries, but we can see that when we overlay on top of a map that the area covers all of our neighborhood boundary except the part that is in Fitchburg, and the excess area is mainly undeveloped save for the Highland Manor area, so it remains a decent representation of our neighborhood.
 
 ![](indicators/Boundary_Census_Overlay.png)
 
 ```{r echo = FALSE, warning = FALSE, message = FALSE}
 
 meta <- read.csv("indicators/nip_tr_24/nip_metadata_24.csv")
-df <- read.csv(file = "indicators/nip_tr_24/nip_tr_24_data.csv", header = TRUE, sep = ",", na.strings = "NA") %>% dplyr::filter(geo_id %in% c("55025001502", "madison")) %>% select(-geo_id) %>% as.data.frame()
+tr <- read.csv(file = "indicators/nip_tr_24/nip_tr_24_data.csv", header = TRUE, sep = ",", na.strings = "NA") %>% dplyr::filter(geo_id %in% c("55025001502", "madison")) %>% select(-geo_id) %>% as.data.frame()
 
-ind <- df
+# Some data is NA for the tracts even though all is present in block groups.
+# geo_id for Badger Rock is 550250015022, 550250015023, 550250015024
+bg <- read.csv(file = "indicators/nip_bg_24/nip_bg_24_data.csv", header = TRUE, sep = ",", na.strings = "NA") %>% dplyr::filter(geo_id %in% c("550250015022", "550250015023", "550250015024","madison")) %>% select(-geo_id) %>% as.data.frame()
+
+
+ind <- tr
+bg_ind <- bg
 
 
 colnames(ind)[colnames(ind) == "geo_type"] <- "Area"
+
+# Calculate Percent Families in Poverty from block groups to get new percentage for the Census Tract
+# First I did this against total population, but I realized this was percent families, not percent of people. Leave this here for a bit until I can be certain.
+# pp <- bg_ind[1:3,c("pc_fmpv", "tot_pop")]
+# pp$num_pov <- (pp$pc_fmpv/100)*pp$tot_pop
+# tot_pov <- sum(pp$num_pov)
+# census_pop <- sum(pp$tot_pop) # This is 4071 vs. 4070 in census
+# ind$pc_fmpv[1] <- round((tot_pov/census_pop)*100, 1)
+
+pp <- bg_ind[1:3,c("pc_fmpv", "hh")]
+pp$num_pov <- (pp$pc_fmpv/100)*pp$hh
+tot_pov <- sum(pp$num_pov)
+census_pop <- sum(pp$hh) # This is 1667 vs. 1666 in census
+ind$pc_fmpv[1] <- round((tot_pov/census_pop)*100, 1)
+
+# Calculate Unemployment from block groups to get new percentage for the Census Tract
+unem <- bg_ind[1:3,c("pc_unem", "tot_pop")]
+unem$num_umen <- (unem$pc_unem/100)*unem$tot_pop
+tot_umen <- sum(unem$num_umen)
+census_pop <- sum(unem$tot_pop) # This is 4071 vs. 4070 in census
+ind$pc_unem[1] <- round((tot_umen/census_pop)*100, 1)
 
 # Put percentage signs in front of percentages
 paste_percent <- function(col) (paste(col, "%"))
 pcnt_cols <- grep(x = colnames(ind), pattern = "pc_")
 ind %<>% mutate(across(pcnt_cols, paste_percent)) %>%
   # These columns have NA for both data points
-  select(-c("foreclsr", "yrblt_mdn"))
+  select(-c("foreclsr", "yrblt_mdn")) %>%
+  # These columns have NA for all three block groups and the census tract
+  select(-c("pc_no_vhcl", "pc_alt_trn"))
 
 
 # Rename indicators
@@ -86,7 +115,7 @@ colnames(ind) <- c("City of Madison", "Badger Rock")
 
 # Make row names an actual column
 ind$Measure <- row.names(ind) 
-id <- c(rep("Census 2020", 15), rep("Housing", 12), rep("Public Safety", 7), rep("Health", 2), rep("Education", 9), rep("Economy", 4), rep("Transportation", 5))
+id <- c(rep("Census 2020", 15), rep("Housing", 12), rep("Public Safety", 7), rep("Health", 2), rep("Education", 9), rep("Economy", 4), rep("Transportation", 3))
 
 gt(data = ind, rowname_col = "Measure") %>% 
   tab_header("2024 Neighborhood Indicators") %>% 
@@ -105,6 +134,8 @@ gt(data = ind, rowname_col = "Measure") %>%
 # This isn't quite done yet - I want to remove rows with NA (-5), possibly make everything into percents relative to total population, and put little red/green arrows to display the percent difference between us and the city
 
 ```
+
+Values with a "-5" are missing data for at least one of the component block groups. Data were calculated if all data was present for each block group but was missing for the census tract.
 
 Data Sources:
 
