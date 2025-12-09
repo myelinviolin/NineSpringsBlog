@@ -2,12 +2,12 @@ project:
   type: website
 
 website:
-  announcement: 
-    content: "Next Association Meeting - Friday, December 5th, 5:30 pm at the Badger Rock Neighborhood Center" 
-    position: below-navbar 
-    dismissable: false
-    type: info
-    icon: chat-dots
+  # announcement: 
+  #   content: "Next Association Meeting - Friday, December 5th, 5:30 pm at the Badger Rock Neighborhood Center" 
+  #   position: below-navbar 
+  #   dismissable: false
+  #   type: info
+  #   icon: chat-dots
   title: "Badger Rock Neighborhood"
   site-url: https://myelinviolin.quarto.pub/badgerrock/
   description: "Local neighborhood news, events, and resources for the Badger Rock Neighborhood on the south side of Madison, WI"
