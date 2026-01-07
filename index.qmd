@@ -6,19 +6,17 @@ style: yeti
 
 # Upcoming Events
 
-[![](images/unnamed%20(3).png)](https://rootedwi.org/event/badger-rock-community-dinner-3-2/2025-12-12/?mc_cid=fdda71c2b4&mc_eid=7dbead326f)
+------------------------------------------------------------------------
+
+[![](images/Water-and-Winter-Salt-Workshop.png){fig-align="center" width="501"}](https://arboretum.wisc.edu/event/215729/)
 
 ------------------------------------------------------------------------
 
-[![](images/unnamed%20(5).jpg)](https://www.madisonformoreneighbors.org/)
+### Neighborhood Winter Potluck {style="text-align: center"}
 
-------------------------------------------------------------------------
+Saturday, January 31st - 4-7pm - 2913 Fell Rd.
 
-[![](images/UPDATEDsolidaritysummitinstagram_0.png)](https://madisonman.coop/node/95)
-
-------------------------------------------------------------------------
-
-[![](images/40th%20Holiday%20Blood%20Drive%20Social%202%20Final.jpg){fig-align="center"}](https://www.redcrossblood.org/give.html/drive-results?zipSponsor=hbdmadison)
+<center>[![](images/signup-choose-a-spot-btn.png)](https://signup.com/go/GYzuxXt)</center>
 
 ------------------------------------------------------------------------
 
@@ -850,6 +848,8 @@ style: yeti
 ```
 
 ------------------------------------------------------------------------
+
+#### Neighborhood Overview {style="text-align: left"}
 
 Badger Rock (formerly Indian Springs and Moorland-Rimrock) is a dynamic, community-centered neighborhood on Madison's south side. At its heart is the Badger Rock Neighborhood Center, which connects to Badger Rock Middle School and Lori Mann Carey Elementary --- Madison's newest public elementary school. The center also houses Rooted, a local nonprofit that promotes sustainability and a sense of connection through urban agriculture, youth education, and community programming. The neighborhood features a diverse mix of housing options from mid-century ranches, to condos and apartments.
 
