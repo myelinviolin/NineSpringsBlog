@@ -8,7 +8,7 @@ about:
       href: https://github.com/myelinviolin/NineSpringsBlog
     - icon: slack
       text: Slack
-      href: https://ninespringsne-yyd7893.slack.com/archives/C05MMV82B71
+      href: https://join.slack.com/t/ninespringsne-yyd7893/shared_invite/zt-27x59trno-ZCSR48F~jkHE9K0xtz9h4Q
     - icon: facebook
       text: Facebook
       href: https://www.facebook.com/groups/1411030293356678/
