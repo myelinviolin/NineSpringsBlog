@@ -6,6 +6,8 @@ style: yeti
 
 # Upcoming Events
 
+[![](images/unnamed (6).jpg){fig-align="center" width="599"}](https://aecstudy.danecounty.gov/)
+
 [![](images/Earth Day 2026.png){fig-align="center" width="600"}](https://cityofmadison.galaxydigital.com/need/detail/?need_id=1218017)
 
 ------------------------------------------------------------------------
