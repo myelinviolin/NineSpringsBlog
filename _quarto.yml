@@ -3,7 +3,7 @@ project:
 
 website:
   announcement:
-    content: "Next Association Meeting - Thursday, March 19th @ 5:30 pm, Location TBD"
+    content: "Next Association Meeting - Thursday, March 19th @ 5:30 pm, Delta Beer Lab"
     position: below-navbar
     dismissable: false
     type: info

@@ -1,0 +1,76 @@
+---
+title: "BRNA Meeting Minutes Feb 2026"
+author: "Kevin Konieczko"
+date: "2026-02-12"
+categories: [neighborhood meeting]
+description: Meeting Minutes
+---
+
+![](images/minutes-of-the-meeting-1.png){fig-align="center" width="172"}
+
+-   Guest Speaker: Officer Mitchell Favor - Neighborhood Resource Officer
+
+    -   ROs serve for 4 years, Mitchell has been in position for 1 year
+    -   Responsibilities: Patrol area, social work, coordinate events in area
+    -   Neighborhood Updates:
+        -   Focused mainly on 7 Oaks area (60% of calls in Badger Rock Area)
+        -   Neighborhood mainly has calls for Domestic Disputes and Mental Health checks
+        -   Uptick in car thefts along Moorland Road - ensure vehicles are locked, do not leave keys in car. Cars taken while the owner leaves them unattended while running them to warm up.
+    -   Attendee Concerns
+        -   Traffic Enforcement - officers Charles Warren and Greg Rosetti stationed near neighborhood, any infrastructure change needs to go through City Engineering
+        -   For immediate and specific concerns, reach out to Officer Favor; for general patterns please reach out to relevant department (i.e. traffic issues to traffic enforcement)
+        -   Officer Favor has access to a grill and possibly funds to help with neighborhood summer picnic!
+
+-   Moorland Road - Proposal to City Engineering
+
+    -   History and Demographics research done and drafted
+
+    -   Proposed solutions section needs work (and help!)
+
+-   Next Steps
+
+    -   Subteam to meet (Courtney, Shelby, Caleb) to work on proposal draft
+    -   Subteam to make flyers for Moorland Rd residents to submit feedback and attend specific meeting to discuss proposal draft
+
+-   Welcoming Committee Update - Kevin
+
+    -   Since December, monitoring home sale sites for new owner in neighborhood
+    -   Goal - get flyer with Neighborhood Association information to home within 1 month of purchase
+    -   Roles:
+        -   Courtney - Monitor sales, monitor neighborhood email for outreach
+        -   Shelby, Caleb, Kelly, Kevin - Deliver flyers
+
+-   Meet the Alder Candidates Event - Kevin
+
+    -   When: March 23, 2026
+    -   Where: Goodman South Library (Park Street)
+    -   Schedule:
+        -   5:30pm - Setup
+        -   6:00 - Welcome
+        -   6:05 - Noah Lieberman
+        -   6:50 - Break
+        -   7:00 - Kate Blood
+    -   Isadore Knox, Jr. is not running for alder for District 14, two candidates Noah Lieberman and Kate Blood are running instead
+    -   Kevin is planning an evening event at Goodman South Library where each candidate will separately have the chance to answer a prepared list of questions
+    -   Needs:
+        -   Volunteers for MC, Greeter, and De-Escalation roles
+        -   Volunteers to help create the prepared question list
+        -   Volunteer to provide English/Spanish translation at event (inquiry in process with multiple bilingual neighbors)
+        -   Caleb, Austin, and Kelly will be forwarded planning document links
+        -   Please reach out to Kevin if interested in helping
+
+-   BRNA Bank Account - Courtney
+
+    -   Courtney has been looking into options for a treasury for BRNA
+    -   Goal: Transparency! Balance and where money is spent able to be checked by anyone outside of meetings
+    -   Current Plan: Start LLC for the neighborhood, allows opening of bank account and accounting apps to allow for transparency
+    -   Shelby - will reach out to Dane County Neighbors Helping Neighbors to get feedback on how other neighborhood associations in area run their monetary accounts
+
+-   Next Meeting
+
+    -   Scheduling poll on Slack, will run until 02/20
+    -   Business:
+        -   Planning Neighborhood Garage Sale
+        -   Planning (or Debrief, depending on date) of Alder Event
+        -   Earth Day event planning
+        -   Update on Moorland Road document
