@@ -1,0 +1,32 @@
+---
+title: "Bridge Lake Point Waunona Neighborhood Center"
+categories: [community, food access, volunteer]
+description: strengthening the lives of youth and families
+about:
+  template: trestles
+  links:
+    - icon: globe
+      href: https://www.blwcenter.org/
+    - icon: facebook
+      href: https://www.facebook.com/blwcenter
+    - icon: instagram
+      href: https://www.instagram.com/blwcenter
+---
+
+![](images/Screenshot%202026-03-09%20115647.png){fig-align="center"}
+
+Since 2004, BLW Center's mission has been to support the Southeast Madison community in addressing the needs identified by its residents. Our programs include a food pantry, youth programming, Family Resource Center, senior program, wellness services, community events, and much more for all ages.
+
+All of BLW's programs are free and open to all.
+
+## **BLW Center transforms lives.**
+
+Sometimes that means helping a parent attain a family-supporting job, or tutoring a child to earn straight A's in school.
+
+Other times that means connecting a community member with a volunteer opportunity that brightens the lives of others.
+
+Regardless of what brings you to BLW, everyone is welcome.
+
+```{=html}
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d23325.655828193216!2d-89.36184206394786!3d43.047596370956065!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8806524f38692bf3%3A0xeb329f39f7f3283!2sBridge%20Lake%20Point%20Waunona%20Neighborhood%20Center!5e0!3m2!1sen!2sus!4v1773075584896!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+```
