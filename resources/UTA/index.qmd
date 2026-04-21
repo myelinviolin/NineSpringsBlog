@@ -1,0 +1,66 @@
+---
+title: "Urban Tree Alliance"
+categories: [environment, neighborhood]
+image: "UTA.png"
+description: Neighborhood Forest Project - Get Free Trees!
+about:
+  template: trestles
+  links:
+    - icon: globe
+      href: https://www.urbantreealliance.org/our-work/neighborhood-forest-project/
+    - icon: facebook
+      href: https://www.facebook.com/p/Urban-Tree-Alliance-100075676881972/
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+## Grow Your Community's Canopy with Free Trees! 
+
+Thanks to a generous grant from the Madison Community Foundation, the Urban Tree Alliance (UTA) is thrilled to announce an exciting new opportunity for property owners in the Greater Madison area.
+We're offering free trees throughout Madison's South Side community to help grow and preserve our urban forest canopy.
+All property types within the project boundaries are eligible and encouraged to apply.
+
+To request a tree please click ***here*****.**
+
+## Join the Movement to Green Our Neighborhoods!
+
+At UTA, our mission is to enhance and expand the urban forest canopy across Greater Madison.
+We've teamed up with local partners like Wisconsin EcoLatinos and Operation Fresh Start to bring this initiative to life.
+We've also received financial support from the Greater Madison foundation, the MGE foundation, and marketing support from Greenleaf Media.
+Through this project, we will plant 160 trees per year in South Side neighborhoods, creating a greener, healthier, and more beautiful community for all.
+
+Madison's South Side community is home to nearly 25,000 residents.
+This area encompasses a diverse range of neighborhoods and is a focal point for various community development and environmental initiatives.
+The population reflects a rich cultural and socioeconomic diversity, making it an ideal area for urban forestry projects that aim to enhance the local environment and improve quality of life for all residents.
+
+## Who Can Apply? 
+
+Everyone!
+Whether you're a homeowner, a business owner, a school administrator, or a government property manager, you can apply for free trees to beautify your space and contribute to our community's green future.
+
+## Why Participate?
+
+Beautify Your Property: Enhance the aesthetic appeal of your home, business, or community space.
+Environmental Impact: Trees improve air quality, reduce heat island effect, and support local wildlife.
+Economic Impact: Reduce energy costs, increase property values, improve air quality and reduce potential medical costs, reduce stormwater and flood damage costs.
+Community Benefits: Join a city-wide effort to create a more sustainable and vibrant urban environment.
+
+## How It Works 
+
+**Apply for Free Trees:** Simply fill out our application form to request free trees for your property.
+
+**Expert Guidance:** Receive professional advice on species selection and planting site options.
+
+**Community Events:** Participate in tree planting events and educational activities to learn about tree care and urban forestry.
+
+**Ongoing Support:** Get continued support for maintaining and caring for your new trees through our developing neighborhood tree ambassador program.
+
+## Get Involved Today! 
+
+Fill out the "Tree Request Form" to apply for free trees.
+One of our employees will follow-up with you to survey your property for potential planting sites and tree species suggestions.
+Don't forget to subscribe to our newsletter and follow us on FB and Instagram to learn more about upcoming planting events and how you can contribute to our canopy growth efforts.
+
+Together, let's grow a greener future for our community, one tree at a time.
+Apply now and be part of the Urban Tree Alliance's mission to expand and preserve Madison's urban forest canopy in the South Side community!
