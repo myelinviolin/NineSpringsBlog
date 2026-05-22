@@ -8,3 +8,5 @@ styles.css
 _site/
 figure-html/
 /.quarto/
+
+**/*.quarto_ipynb

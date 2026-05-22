@@ -4,9 +4,11 @@ title-block-banner: true
 style: yeti
 ---
 
-<!-- # Upcoming Events -->
+# Upcoming Events
 
-<!-- ------------------------------------------------------------------------ -->
+[![](images/clipboard-3971003346.jpeg){fig-align="center" width="565"}](https://myelinviolin.quarto.pub/badgerrock/garagesalemap.html)
+
+------------------------------------------------------------------------
 
 #### Neighborhood Overview {style="text-align: left"}
 
@@ -856,4 +858,5 @@ Together, we can maintain and improve the quality of life for all of the residen
       </script>
       <script src="https://groot.mailerlite.com/js/w/webforms.min.js?v491724307ca3b85c1c754857e93994e5" type="text/javascript"></script>
 ```
+
 ####  {style="text-align: left"}
