@@ -8,12 +8,12 @@ format: dashboard
 ```{=html}
 <iframe src="https://snazzymaps.com/embed/793836" width="100%" height="700px" style="border:none;"></iframe>
 ```
+
 ## Households {width="40%"}
 
-| Address               | Items for Sale                                                                                                                                                                                                                         |
-|----------------|--------------------------------------------------------|
-| 418 Diving Hawk Trail | Women clothes XS-S, Home Decor, plates, bowls, kitchen ware , furniture, sports and Pokemon cards, anime toys                                                                                                                          |
-| 2738 Fell Rd          | Furniture, clothes, tools, household items                                                                                                                                                                                             |
-| 2913 Fell Road        | Kitchen goods, full matching bathroom set, antique meat grinder, disassembled sewing machine, air purifier, plant lights, wall mirror, boys clothes size small and medium, shoes size 11-5, books and kid books, women's shoes size 11 |
-| 1 Book Court          | **FREE FACE PAINTING** - Furniture, office chair mats, gym items, Kirby vacuum and miscellaneous.                                                                                                                                      |
-| 355 Munn Rd           | Household items, toddler and little kid toys and books, girls clothes size 3T-4T, white cabinet for behind toilet, fishing gear                                                                                                        |
+| Address | Items for Sale |
+|------------------|------------------------------------------------------|
+| 2738 Fell Rd | Furniture, clothes, tools, household items |
+| 2913 Fell Road | Kitchen goods, full matching bathroom set, antique meat grinder, disassembled sewing machine, air purifier, plant lights, wall mirror, boys clothes size small and medium, shoes size 11-5, books and kid books, women's shoes size 11 |
+| 1 Book Court | **FREE FACE PAINTING** - Furniture, office chair mats, gym items, Kirby vacuum and miscellaneous. |
+| 355 Munn Rd | Household items, toddler and little kid toys and books, girls clothes size 3T-4T, white cabinet for behind toilet, fishing gear |
