@@ -20,7 +20,7 @@ website:
       - resources.qmd
       - indicators.qmd
       - events.qmd
-      - garagesalemap.qmd
+      # - garagesalemap.qmd
 
     right:
       - about.qmd

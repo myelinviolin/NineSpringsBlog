@@ -4,9 +4,7 @@ title-block-banner: true
 style: yeti
 ---
 
-# Upcoming Events
-
-[![](images/clipboard-3971003346.jpeg){fig-align="center" width="565"}](https://myelinviolin.quarto.pub/badgerrock/garagesalemap.html)
+<!-- # Upcoming Events -->
 
 ------------------------------------------------------------------------
 
