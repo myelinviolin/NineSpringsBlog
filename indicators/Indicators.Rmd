@@ -1,0 +1,28 @@
+Indicator data is from https://madison.apl.wisc.edu/, Lake boundaries are from https://gis-countyofdane.opendata.arcgis.com/pages/water-resources.
+
+```{r}
+library(sf)
+library(ggplot2)
+meta_2022 <- read.csv(file = "nip_bg_22/nip_metadata_22.csv")
+shp_2022 <- sf::read_sf(dsn = "nip_bg_22/nip_bg_22.shp")
+
+lakes <-  sf::read_sf(dsn = "LakesPonds/LakesPonds.shp") %>% dplyr::filter(HYDTYPE == "Lake") %>% dplyr::filter(NAME %in% c("Lake Mendota", "Lake Monona", "Lake Wingra")) %>% head(-1)
+
+# geo_id for Nine/Indian Springs is 550250015024
+NSN <- dplyr::filter(shp_2022, geo_id == "550250015024")
+NSN$NAME <- "Nine Springs"
+
+ggplot() +
+  geom_sf(data = shp_2022, aes(fill = pc_un5)) + 
+  geom_sf(data = NSN, color = "purple", aes(fill = pc_un5), linewidth = 1) +
+  geom_sf_text(data = NSN, aes(label = NAME), size = 2.5,  nudge_y = -0.012) +
+  geom_sf(data = lakes, color = "blue") +
+  geom_sf_text(data = lakes, aes(label = NAME), size = 2.0) +
+  scale_fill_distiller(palette = "BuPu", direction = 1) +
+  theme(axis.text.x = element_blank(),
+        axis.text.y = element_blank(),
+        axis.ticks = element_blank(),
+        rect = element_blank(),
+        axis.title.y=element_blank(),
+        axis.title.x=element_blank())
+```
