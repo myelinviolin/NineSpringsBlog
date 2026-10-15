@@ -8,7 +8,7 @@ style: yeti
 
 ------------------------------------------------------------------------
 
-![](images/clipboard-4074505692.png)
+![](images/Halloween Block Party 2026.png){fig-align="center" width="414"}
 
 ------------------------------------------------------------------------
 
@@ -860,5 +860,3 @@ Together, we can maintain and improve the quality of life for all of the residen
       </script>
       <script src="https://groot.mailerlite.com/js/w/webforms.min.js?v491724307ca3b85c1c754857e93994e5" type="text/javascript"></script>
 ```
-
-####  {style="text-align: left"}
